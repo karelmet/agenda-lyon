@@ -38,6 +38,25 @@ CAL_NAME = "Spectacles & concerts – Lyon"
 # Événements longs (expos, séries quotidiennes) regroupés en une seule entrée
 MIN_RUN_DAYS = int(os.getenv("MIN_RUN_DAYS", 8))    # à partir de combien de jours quasi consécutifs
 EXCLUDE_EXPOS = os.getenv("EXCLUDE_EXPOS", "0") == "1"  # 1 = supprimer complètement les expos
+
+# Centres d'intérêt : passe un type à False pour le masquer, à True pour l'afficher.
+# Le motif est cherché dans le genre Ticketmaster / les mots-clés OpenAgenda.
+TYPES = {
+    "Rock / Indé":                   (True,  r"rock|alternative|indie|ind[ié]"),
+    "Pop / Chanson française":       (True,  r"\bpop\b|chanson|vari[ée]t[ée]|french"),
+    "Rap / Hip-hop / R&B":           (True,  r"hip.?hop|\brap\b|r&b|\brnb\b|urban"),
+    "Électro / DJ":                  (True,  r"[ée]lectro|techno|\bhouse\b|\bdj\b|trance"),
+    "Jazz / Blues / Soul":           (True,  r"jazz|blues|soul|funk|gospel"),
+    "Musiques du monde / Reggae":    (True,  r"world|reggae|latin|afro|\bska\b|\bdub\b|du monde|flamenco|salsa"),
+    "Théâtre":                       (True,  r"theat|th[ée][âa]tre|drama|\bplay\b|com[ée]die(?! musicale)"),
+    "Stand-up / Humour":             (True,  r"comedy|humou?r|stand.?up|one.?(wo)?man"),
+    "Classique / Opéra":             (False, r"classical|classique|op[ée]ra|symphon|orchestr|baroque|lyrique|philharmon"),
+    "Metal / Punk":                  (False, r"metal|punk|hardcore|grindcore"),
+    "Comédies musicales / Danse":    (False, r"musical|com[ée]die musicale|ballet|\bdanse\b|\bdance\b(?!\s*/\s*electronic)"),
+    "Cirque / Magie / Jeune public": (False, r"circus|cirque|magi[ce]|illusion|children|enfant|jeune public|famil|puppet|marionnette"),
+}
+KEEP_UNCLASSIFIED = True  # garder les événements sans genre reconnu (souvent nombreux)
+
 MOIS = ["janv.", "févr.", "mars", "avr.", "mai", "juin", "juil.", "août", "sept.", "oct.", "nov.", "déc."]
 
 # Faux événements Ticketmaster (parkings, packs VIP...) à ignorer
@@ -162,6 +181,7 @@ def parse_ticketmaster(e: dict) -> dict | None:
         "url": e.get("url"),
         "category": categorize(genre, subgenre, segment),
         "genre": " / ".join(x for x in (genre, subgenre) if x),
+        "tags": f"{genre} {subgenre}",
         "raw_text": " ".join(x for x in (e.get("description"), e.get("info")) if x),
         "source": "Ticketmaster",
     }
@@ -218,6 +238,7 @@ def parse_openagenda(e: dict, agenda: str, limit: datetime) -> list[dict]:
             "url": link,
             "category": categorize(title, keywords, txt(e.get("description"))),
             "genre": "",
+            "tags": keywords,
             "raw_text": txt(e.get("longDescription")) or txt(e.get("description")),
             "source": "OpenAgenda",
         })
@@ -272,6 +293,21 @@ def add_descriptions(events: list[dict]) -> None:
         ev["description"] = cache[ckey]
     CACHE_FILE.parent.mkdir(parents=True, exist_ok=True)
     CACHE_FILE.write_text(json.dumps(cache, ensure_ascii=False, indent=1, sort_keys=True))
+
+
+# ----------------------------------------------------------------- centres d'intérêt
+def matches_interests(ev: dict) -> bool:
+    tags, title = ev.get("tags", ""), ev["title"]
+    if EXPO.search(f"{title} {tags} {ev['venue']}"):
+        return True  # les expos sont gérées par EXCLUDE_EXPOS
+    hit = lambda pat, text: re.search(pat, text, re.I)
+    if any(hit(pat, tags) for on, pat in TYPES.values() if not on):
+        return False                      # genre explicitement non voulu (ex. Rock / Punk)
+    if any(hit(pat, tags) for on, pat in TYPES.values() if on):
+        return True                       # genre voulu
+    if any(hit(pat, title) for on, pat in TYPES.values() if not on):
+        return False                      # pas de genre, mais le titre trahit (« Cirque… », « Orchestre… »)
+    return KEEP_UNCLASSIFIED
 
 
 # ----------------------------------------------------------------- événements longs
@@ -383,7 +419,10 @@ def main() -> None:
         except Exception as exc:
             print(f"⚠️  OpenAgenda ignoré : {exc}", file=sys.stderr)
 
-    events = collapse_long_runs(dedupe(events))
+    before = len(events)
+    events = [e for e in dedupe(events) if matches_interests(e)]
+    print(f"Filtre centres d'intérêt : {len(events)} gardés sur {before}")
+    events = collapse_long_runs(events)
     if not events:
         # Ne jamais écraser le calendrier existant en cas de panne d'API
         sys.exit("Aucun événement récupéré : calendrier existant conservé.")
