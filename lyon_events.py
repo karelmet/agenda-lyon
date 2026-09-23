@@ -10,6 +10,7 @@ Descriptions :
   - Réécrites en 2-3 phrases par Claude si ANTHROPIC_API_KEY est défini (optionnel),
     sinon construites à partir des données de la source. Mises en cache.
 """
+import hashlib
 import html
 import json
 import os
@@ -17,6 +18,7 @@ import re
 import sys
 import time
 import unicodedata
+from collections import defaultdict
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -33,10 +35,15 @@ OUTPUT = Path(os.getenv("OUTPUT", "docs/lyon-evenements.ics"))
 CACHE_FILE = Path("data/descriptions.json")
 DEFAULT_DURATION = timedelta(hours=2, minutes=30)
 CAL_NAME = "Spectacles & concerts – Lyon"
+# Événements longs (expos, séries quotidiennes) regroupés en une seule entrée
+MIN_RUN_DAYS = int(os.getenv("MIN_RUN_DAYS", 8))    # à partir de combien de jours quasi consécutifs
+EXCLUDE_EXPOS = os.getenv("EXCLUDE_EXPOS", "0") == "1"  # 1 = supprimer complètement les expos
+MOIS = ["janv.", "févr.", "mars", "avr.", "mai", "juin", "juil.", "août", "sept.", "oct.", "nov.", "déc."]
 
 # Faux événements Ticketmaster (parkings, packs VIP...) à ignorer
 EXCLUDE = re.compile(r"parking|pack ?vip|\bvip\b|hospitalit|upgrade|navette|shuttle|fast ?lane", re.I)
 COMEDY = re.compile(r"comedy|humou?r|stand.?up|one.?man|one.?woman", re.I)
+EXPO = re.compile(r"\bexpos?\b|exposition|exhibition|fine art|mus[ée]e|museum|galerie", re.I)
 THEATRE = re.compile(r"theat|théât|drama|play", re.I)
 
 
@@ -267,6 +274,47 @@ def add_descriptions(events: list[dict]) -> None:
     CACHE_FILE.write_text(json.dumps(cache, ensure_ascii=False, indent=1, sort_keys=True))
 
 
+# ----------------------------------------------------------------- événements longs
+def day_of(start) -> date:
+    return start.date() if isinstance(start, datetime) else start
+
+
+def fmt_day(d: date) -> str:
+    return f"{d.day} {MOIS[d.month - 1]} {d.year}"
+
+
+def collapse_long_runs(events: list[dict]) -> list[dict]:
+    """Regroupe en UNE entrée (journée entière, au premier jour) :
+    - les expositions,
+    - les événements présents presque tous les jours sur MIN_RUN_DAYS jours ou plus."""
+    groups = defaultdict(list)
+    for ev in events:
+        groups[(norm(ev["title"]), norm(ev["venue"]))].append(ev)
+
+    out = []
+    for key, evs in groups.items():
+        is_expo = any(EXPO.search(f"{e['title']} {e['genre']} {e['venue']}") for e in evs)
+        if is_expo and EXCLUDE_EXPOS:
+            continue
+        days = sorted({day_of(e["start"]) for e in evs})
+        span = (days[-1] - days[0]).days + 1
+        is_daily = len(days) >= MIN_RUN_DAYS and len(days) >= 0.8 * span
+        if len(days) < 2 or not (is_expo or is_daily):
+            out.extend(evs)
+            continue
+        first = next(e for e in evs if day_of(e["start"]) == days[0])
+        out.append(dict(
+            first,
+            uid="run-" + hashlib.md5("|".join(key).encode()).hexdigest()[:16],  # stable d'une semaine à l'autre
+            start=days[0],
+            end=None,
+            last_day=days[-1],
+            category="Exposition" if is_expo else first["category"],
+            url=first["url"] or next((e["url"] for e in evs if e["url"]), None),
+        ))
+    return out
+
+
 # ----------------------------------------------------------------- calendrier
 def dedupe(events: list[dict]) -> list[dict]:
     seen, out = set(), []
@@ -295,8 +343,11 @@ def build_calendar(events: list[dict]) -> bytes:
         ve = Event()
         ve.add("uid", f"{ev['uid']}@agenda-lyon")
         ve.add("dtstamp", stamp)
-        emoji = {"Concert": "🎵", "Théâtre": "🎭", "Stand-up / humour": "🎤"}.get(ev["category"], "🎟")
-        ve.add("summary", f"{emoji} {ev['title']}")
+        emoji = {"Concert": "🎵", "Théâtre": "🎭", "Stand-up / humour": "🎤", "Exposition": "🖼"}.get(ev["category"], "🎟")
+        title = f"{emoji} {ev['title']}"
+        if ev.get("last_day"):
+            title += f" (jusqu'au {ev['last_day'].day} {MOIS[ev['last_day'].month - 1]})"
+        ve.add("summary", title)
         start = ev["start"]
         if isinstance(start, datetime):
             end = ev.get("end") or start + DEFAULT_DURATION
@@ -309,6 +360,8 @@ def build_calendar(events: list[dict]) -> bytes:
         if location:
             ve.add("location", location)
         desc = ev["description"]
+        if ev.get("last_day"):
+            desc = f"📅 Du {fmt_day(ev['start'])} au {fmt_day(ev['last_day'])}.\n\n" + desc
         if ev["url"]:
             desc += f"\n\n🎟 Billetterie : {ev['url']}"
             ve.add("url", ev["url"])
@@ -330,7 +383,7 @@ def main() -> None:
         except Exception as exc:
             print(f"⚠️  OpenAgenda ignoré : {exc}", file=sys.stderr)
 
-    events = dedupe(events)
+    events = collapse_long_runs(dedupe(events))
     if not events:
         # Ne jamais écraser le calendrier existant en cas de panne d'API
         sys.exit("Aucun événement récupéré : calendrier existant conservé.")
