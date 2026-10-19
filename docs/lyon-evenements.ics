@@ -7,402 +7,10 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
-SUMMARY:🎵 JOE JACKSON
-DTSTART:20261013T183000Z
-DTEND:20261013T210000Z
-DTSTAMP:20261012T123926Z
-UID:tm-ZkyMmBwZ1A7kFj3@agenda-lyon
-CATEGORIES:Concert
-DESCRIPTION:Concert « JOE JACKSON » à RADIANT - BELLEVUE (Caluire Et Cu
- ire). Genre : Chanson Francaise / Chanson Francaise. Réservation via le l
- ien de billetterie ci-dessous.\n\n🎟 Billetterie : https://www.ticketmas
- ter.fr/fr/manifestation/joe-jackson-billet/idmanif/639853/idtier/18864121
-LOCATION:RADIANT - BELLEVUE\, 1 RUE JEAN MOULIN\, 69300\, Caluire Et Cuire
-URL:https://www.ticketmaster.fr/fr/manifestation/joe-jackson-billet/idmani
- f/639853/idtier/18864121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎤 COMEDY CLUB
-DTSTART:20261013T183000Z
-DTEND:20261013T210000Z
-DTSTAMP:20261012T123926Z
-UID:tm-ZkyMmBwZ1A7uzfw@agenda-lyon
-CATEGORIES:Stand-up / humour
-DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
-  explosive !Le Complexe café-théâtre a minutieusement sélectionné pou
- r vous une équipe d’artistes qui maîtrisent l’art du stand-up comme 
- personne !Que vous aimiez l’humour décalé\, l’observation sarcastiqu
- e de la vie quotidienne\, ou les réflexions profondes habilement déguis
- ées en punchlines\, il y en aura pour tous les goûts et nous vous…\n\n
- 🎟 Billetterie : https://www.ticketmaster.fr/fr/manifestation/comedy-clu
- b-billet/idmanif/658274/idtier/18864121
-LOCATION:LE COMPLEXE CAFE-THEATRE\, 7 RUE DES CAPUCINS -\, 69001\, Lyon
-URL:https://www.ticketmaster.fr/fr/manifestation/comedy-club-billet/idmani
- f/658274/idtier/18864121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎤 LES DIVINES
-DTSTART:20261013T183000Z
-DTEND:20261013T210000Z
-DTSTAMP:20261012T123926Z
-UID:tm-ZkyMmBwZ1A7uZbF@agenda-lyon
-CATEGORIES:Stand-up / humour
-DESCRIPTION:ESPACE GERSON PRESENTE : LES DIVINESLudivine autiste est la ni
- èce de Joséphine qui est travailleuse du sexe. Les deux femmes se retrou
- vent\, à l’occasion d’un stage de Ludivine dans un ESAT\, après de l
- ongues années de séparation. La découverte sans tabous de l’univers d
- e Joséphine va permettre à Ludivine de laisser libre cours à sa curiosi
- té sur un sujet qui l’intéresse\, les relations amoureuses.\n\n🎟 Bi
- lletterie : https://www.ticketmaster.fr/fr/manifestation/les-divines-bille
- t/idmanif/659848/idtier/18864121
-LOCATION:ESPACE GERSON\, 1 PLACE GERSON\, 69005\, Lyon
-URL:https://www.ticketmaster.fr/fr/manifestation/les-divines-billet/idmani
- f/659848/idtier/18864121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🖼 EXPOSITION ROBERT DOISNEAU (jusqu'au 18 déc.)
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-DTSTAMP:20261012T123926Z
-UID:run-cd63958197cfac54@agenda-lyon
-CATEGORIES:Exposition
-DESCRIPTION:📅 Du 14 oct. 2026 au 18 déc. 2026.\n\nLA SUCRIÈRE - LYON 
- :EXPOSITION ROBERT DOISNEAU - INSTANTS DONNESL'exposition Robert Doisneau.
-  Instants Donnés vous propose un parcours prodigieux de plus de 400 photo
- graphies pour découvrir l'œuvre de ce célèbre photographe ! La Sucriè
- re à Lyon accueille une rétrospective d’envergure consacrée à Robert
-  Doisneau\, l’un des plus grands maîtres de la photographie du XXe siè
- cle.\n\n🎟 Billetterie : https://www.ticketmaster.fr/fr/manifestation/ex
- position-robert-doisneau-billet/idmanif/658717/idtier/18864121
-LOCATION:LA SUCRIERE\, 49-50 quai Rambaud\, 69002\, Lyon
-URL:https://www.ticketmaster.fr/fr/manifestation/exposition-robert-doisnea
- u-billet/idmanif/658717/idtier/18864121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎵 FREDZ
-DTSTART:20261014T180000Z
-DTEND:20261014T203000Z
-DTSTAMP:20261012T123926Z
-UID:tm-ZkyMmBwZ1A7ay4d@agenda-lyon
-CATEGORIES:Concert
-DESCRIPTION:FREDZCA – Rap / Pop / ChansonFREDZ est un auteur-compositeur
- -interprète canadien à la signature singulière\, reconnaissable entre m
- ille. Avec sa coupe au bol et ses lunettes rondes devenues emblématiques
- \, il évoque autant un personnage de cinéma indépendant qu’un artiste
-  profondément ancré dans son époque. À la croisée du rap\, de la pop 
- et de la chanson\, il transforme des fragments de vie intime…\n\n🎟 Bi
- lletterie : https://www.ticketmaster.fr/fr/manifestation/fredz-billet/idma
- nif/650518/idtier/18864121
-LOCATION:LE TRANSBORDEUR\, 3 BD STALINGRAD\, 69100\, Villeurbanne
-URL:https://www.ticketmaster.fr/fr/manifestation/fredz-billet/idmanif/6505
- 18/idtier/18864121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎤 LA MACHINE DE TURING
-DTSTART:20261014T180000Z
-DTEND:20261014T203000Z
-DTSTAMP:20261012T123926Z
-UID:tm-ZkyMmBwZ1A7u-4Z@agenda-lyon
-CATEGORIES:Stand-up / humour
-DESCRIPTION:SAS THEATRE DE L'ODEON PRÉSENTE : LA MACHINE DE TURINGUne pi
- èce de : Benoit SolèsInspirée par la pièce « Breaking the Code » de 
- Hugh Whitemore basée sur « Alan Turing : The Enigma » d’Andrew Hodges
- Mise en scène : Tristan PetitgirardDistribution lyonnaise : Cédric Dani
- élo\, Yohan GeninDéjà plus de 17 000 spectateurs à Lyon !Manchester. H
- iver 1952.Suite au cambriolage de son domicile\, le professeur…\n\n🎟 
- Billetterie : https://www.ticketmaster.fr/fr/manifestation/la-machine-de-t
- uring-billet/idmanif/663768/idtier/18864121
-LOCATION:THEATRE COMEDIE ODEON\, 6\, RUE GROLEE\, 69002\, Lyon
-URL:https://www.ticketmaster.fr/fr/manifestation/la-machine-de-turing-bill
- et/idmanif/663768/idtier/18864121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎤 COMEDY CLUB
-DTSTART:20261014T183000Z
-DTEND:20261014T210000Z
-DTSTAMP:20261012T123926Z
-UID:tm-ZkyMmBwZ1A7uzf8@agenda-lyon
-CATEGORIES:Stand-up / humour
-DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
-  explosive !Le Complexe café-théâtre a minutieusement sélectionné pou
- r vous une équipe d’artistes qui maîtrisent l’art du stand-up comme 
- personne !Que vous aimiez l’humour décalé\, l’observation sarcastiqu
- e de la vie quotidienne\, ou les réflexions profondes habilement déguis
- ées en punchlines\, il y en aura pour tous les goûts et nous vous…\n\n
- 🎟 Billetterie : https://www.ticketmaster.fr/fr/manifestation/comedy-clu
- b-billet/idmanif/658274/idtier/18864121
-LOCATION:LE COMPLEXE CAFE-THEATRE\, 7 RUE DES CAPUCINS -\, 69001\, Lyon
-URL:https://www.ticketmaster.fr/fr/manifestation/comedy-club-billet/idmani
- f/658274/idtier/18864121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎵 GEOFFREY SECCO
-DTSTART:20261015T180000Z
-DTEND:20261015T203000Z
-DTSTAMP:20261012T123926Z
-UID:tm-ZkyMmBwZ1A7aOFy@agenda-lyon
-CATEGORIES:Concert
-DESCRIPTION:CONCERT SOUS HYPNOSEGeoffrey Secco ORIGINES Et si tout avait c
- ommencé avant votre naissance ?Geoffrey Secco vous propose son nouveau co
- ncert sous hypnose “ORIGINES”\, une invitation à remonter le fil du t
- emps et à découvrir votre propre légende trans-personnelle.Que vous ont
-  transmis vos lignées ? Comment les vies antérieures façonnent-elles vo
- tre histoire ? Que pourrait vous apporter…\n\n🎟 Billetterie : https:/
- /www.ticketmaster.fr/fr/manifestation/geoffrey-secco-billet/idmanif/648287
- /idtier/18864121
-LOCATION:RADIANT - BELLEVUE\, 1 RUE JEAN MOULIN\, 69300\, Caluire Et Cuire
-URL:https://www.ticketmaster.fr/fr/manifestation/geoffrey-secco-billet/idm
- anif/648287/idtier/18864121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎵 CARAVAN PALACE
-DTSTART:20261015T180000Z
-DTEND:20261015T203000Z
-DTSTAMP:20261012T123926Z
-UID:tm-ZkyMmBwZ1A7GF8e@agenda-lyon
-CATEGORIES:Concert
-DESCRIPTION:TOBOGGAN PRÉSENTE : CARAVAN PALACEEn moins de vingt ans et ci
- nq albums studio\, Caravan Palace est passé du statut de sensation parisi
- enne à celui de véritable phénomène pop mondial. Leur trajectoire est 
- unique\, portée par un mélange irrésistible d’électronique moderne\,
-  de jazz et de swing hérités des années folles. Une signature sonore im
- médiatement reconnaissable\, qui a conquis bien au-delà des…\n\n🎟 B
- illetterie : https://www.ticketmaster.fr/fr/manifestation/caravan-palace-b
- illet/idmanif/655128/idtier/18864121
-LOCATION:LE TOBOGGAN\, 14 AV JEAN MACÉ\, 69150\, Decines Charpieu
-URL:https://www.ticketmaster.fr/fr/manifestation/caravan-palace-billet/idm
- anif/655128/idtier/18864121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎵 WHIST   THE TACT
-DTSTART:20261015T180000Z
-DTEND:20261015T203000Z
-DTSTAMP:20261012T123926Z
-UID:tm-ZkyMmBwZ1A7ufP0@agenda-lyon
-CATEGORIES:Concert
-DESCRIPTION:LES ABATTOIRS PRESENTENT : WHIST THE TACTVoici deux pépites r
- ock’n’roll\, ces artistes locaux ont bossé leur live plusieurs fois a
- ux Abattoirs. Whist débarque avec un rock urbain et le duo père-fils The
-  Tact surprend avec un rock efficace.\n\n🎟 Billetterie : https://www.ti
- cketmaster.fr/fr/manifestation/whist-the-tact-billet/idmanif/662188/idtier
- /18864121
-LOCATION:LES ABATTOIRS - BOURGOIN-JALLIEU\, 18 ROUTE DE L'ISLE D'ABEAU\, 3
- 8300\, Bourgoin Jallieu
-URL:https://www.ticketmaster.fr/fr/manifestation/whist-the-tact-billet/idm
- anif/662188/idtier/18864121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎤 COMEDY CLUB
-DTSTART:20261015T183000Z
-DTEND:20261015T210000Z
-DTSTAMP:20261012T123926Z
-UID:tm-ZkyMmBwZ1A7uzo-@agenda-lyon
-CATEGORIES:Stand-up / humour
-DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
-  explosive !Le Complexe café-théâtre a minutieusement sélectionné pou
- r vous une équipe d’artistes qui maîtrisent l’art du stand-up comme 
- personne !Que vous aimiez l’humour décalé\, l’observation sarcastiqu
- e de la vie quotidienne\, ou les réflexions profondes habilement déguis
- ées en punchlines\, il y en aura pour tous les goûts et nous vous…\n\n
- 🎟 Billetterie : https://www.ticketmaster.fr/fr/manifestation/comedy-clu
- b-billet/idmanif/658274/idtier/18864121
-LOCATION:LE COMPLEXE CAFE-THEATRE\, 7 RUE DES CAPUCINS -\, 69001\, Lyon
-URL:https://www.ticketmaster.fr/fr/manifestation/comedy-club-billet/idmani
- f/658274/idtier/18864121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎵 LES WRIGGLES
-DTSTART:20261016T180000Z
-DTEND:20261016T203000Z
-DTSTAMP:20261012T123926Z
-UID:tm-ZkyMmBwZ1A7ag_Z@agenda-lyon
-CATEGORIES:Concert
-DESCRIPTION:OHM Tour (Lic. 2-004260 et 3-004253)\, en accord avec Mediaton
- e présenteLES WRIGGLES 1ère partie\n\n🎟 Billetterie : https://www.tic
- ketmaster.fr/fr/manifestation/les-wriggles-billet/idmanif/649601/idtier/18
- 864121
-LOCATION:RADIANT - BELLEVUE\, 1 RUE JEAN MOULIN\, 69300\, Caluire Et Cuire
-URL:https://www.ticketmaster.fr/fr/manifestation/les-wriggles-billet/idman
- if/649601/idtier/18864121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎤 PANAYOTIS PASCOT
-DTSTART:20261016T180000Z
-DTEND:20261016T203000Z
-DTSTAMP:20261012T123926Z
-UID:tm-ZkyMmBwZ1A71vF-@agenda-lyon
-CATEGORIES:Stand-up / humour
-DESCRIPTION:PILLOW LAVA (PLATESV-D-2024-000878) ET JMD PRODUCTION PRÉSENT
- ENT : PANAYOTIS PASCOT\n\n🎟 Billetterie : https://www.ticketmaster.fr/f
- r/manifestation/panayotis-pascot-billet/idmanif/650929/idseance/4281221
-LOCATION:BOURSE DU TRAVAIL\, 205\, PLACE GUICHARD\, 69003\, Lyon
-URL:https://www.ticketmaster.fr/fr/manifestation/panayotis-pascot-billet/i
- dmanif/650929/idseance/4281221
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎤 COMEDY CLUB
-DTSTART:20261016T200000Z
-DTEND:20261016T223000Z
-DTSTAMP:20261012T123926Z
-UID:tm-ZkyMmBwZ1A7uzox@agenda-lyon
-CATEGORIES:Stand-up / humour
-DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
-  explosive !Le Complexe café-théâtre a minutieusement sélectionné pou
- r vous une équipe d’artistes qui maîtrisent l’art du stand-up comme 
- personne !Que vous aimiez l’humour décalé\, l’observation sarcastiqu
- e de la vie quotidienne\, ou les réflexions profondes habilement déguis
- ées en punchlines\, il y en aura pour tous les goûts et nous vous…\n\n
- 🎟 Billetterie : https://www.ticketmaster.fr/fr/manifestation/comedy-clu
- b-billet/idmanif/658274/idtier/18864121
-LOCATION:LE COMPLEXE CAFE-THEATRE\, 7 RUE DES CAPUCINS -\, 69001\, Lyon
-URL:https://www.ticketmaster.fr/fr/manifestation/comedy-club-billet/idmani
- f/658274/idtier/18864121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎤 TELLE EST LA QUESTION
-DTSTART:20261017T150000Z
-DTEND:20261017T173000Z
-DTSTAMP:20261012T123926Z
-UID:tm-ZkyMmBwZ1A7usxk@agenda-lyon
-CATEGORIES:Stand-up / humour
-DESCRIPTION:SAS THEATRE DE L'ODEON PRÉSENTE : TELLE EST LA QUESTIONGenre 
- : Seul en scèneDurée : 55minÀ partir de 12 ansDe : William Shakespeare 
- - Cédric Daniélo Avec : Cédric Daniélo Mise en scène : Kenza Laala R
- égie et création lumière : Hugo Fleurance Production : Le Théâtre d
- ’Anoukis Regard artistique : Olivier Maurin Création Sonore : Manon amo
- rVous l’avez aimé dans « La Machine de Turing »\, venez le…\n\n🎟
-  Billetterie : https://www.ticketmaster.fr/fr/manifestation/telle-est-la-q
- uestion-billet/idmanif/665778/idtier/18864121
-LOCATION:THEATRE COMEDIE ODEON\, 6\, RUE GROLEE\, 69002\, Lyon
-URL:https://www.ticketmaster.fr/fr/manifestation/telle-est-la-question-bil
- let/idmanif/665778/idtier/18864121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎤 PANAYOTIS PASCOT
-DTSTART:20261017T160000Z
-DTEND:20261017T183000Z
-DTSTAMP:20261012T123926Z
-UID:tm-ZkyMmBwZ1A7G036@agenda-lyon
-CATEGORIES:Stand-up / humour
-DESCRIPTION:PILLOW LAVA (PLATESV-D-2024-000878) ET JMD PRODUCTION PRÉSENT
- ENT : PANAYOTIS PASCOT\n\n🎟 Billetterie : https://www.ticketmaster.fr/f
- r/manifestation/panayotis-pascot-billet/idmanif/650929/idseance/4324487
-LOCATION:BOURSE DU TRAVAIL\, 205\, PLACE GUICHARD\, 69003\, Lyon
-URL:https://www.ticketmaster.fr/fr/manifestation/panayotis-pascot-billet/i
- dmanif/650929/idseance/4324487
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎤 LE VOISIN 3
-DTSTART:20261017T164500Z
-DTEND:20261017T191500Z
-DTSTAMP:20261012T123926Z
-UID:tm-ZkyMmBwZ1A7uZjF@agenda-lyon
-CATEGORIES:Stand-up / humour
-DESCRIPTION:Alerte : Voisin en vue ! Velours court\, cheveux gras et plus 
- râleur que jamais\, ce joyeux décalé s’embarque dans de nouvelles-nou
- velles mésaventures. Le spectacle de la maturité ?\n\n🎟 Billetterie :
-  https://www.ticketmaster.fr/fr/manifestation/le-voisin-3-billet/idmanif/6
- 59883/idtier/18864121
-LOCATION:ESPACE GERSON\, 1 PLACE GERSON\, 69005\, Lyon
-URL:https://www.ticketmaster.fr/fr/manifestation/le-voisin-3-billet/idmani
- f/659883/idtier/18864121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎤 LA MACHINE DE TURING
-DTSTART:20261017T180000Z
-DTEND:20261017T203000Z
-DTSTAMP:20261012T123926Z
-UID:tm-ZkyMmBwZ1A7u-4v@agenda-lyon
-CATEGORIES:Stand-up / humour
-DESCRIPTION:SAS THEATRE DE L'ODEON PRÉSENTE : LA MACHINE DE TURINGUne pi
- èce de : Benoit SolèsInspirée par la pièce « Breaking the Code » de 
- Hugh Whitemore basée sur « Alan Turing : The Enigma » d’Andrew Hodges
- Mise en scène : Tristan PetitgirardDistribution lyonnaise : Cédric Dani
- élo\, Yohan GeninDéjà plus de 17 000 spectateurs à Lyon !Manchester. H
- iver 1952.Suite au cambriolage de son domicile\, le professeur…\n\n🎟 
- Billetterie : https://www.ticketmaster.fr/fr/manifestation/la-machine-de-t
- uring-billet/idmanif/663768/idtier/18864121
-LOCATION:THEATRE COMEDIE ODEON\, 6\, RUE GROLEE\, 69002\, Lyon
-URL:https://www.ticketmaster.fr/fr/manifestation/la-machine-de-turing-bill
- et/idmanif/663768/idtier/18864121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎤 JESSÉ
-DTSTART:20261017T183000Z
-DTEND:20261017T210000Z
-DTSTAMP:20261012T123926Z
-UID:tm-rZ7SnyZ1A7Atq_@agenda-lyon
-CATEGORIES:Stand-up / humour
-DESCRIPTION:Stand-up / humour « JESSÉ » à RADIANT - BELLEVUE (Caluire 
- Et Cuire). Genre : Comedy / Comedy. Réservation via le lien de billetteri
- e ci-dessous.\n\n🎟 Billetterie : https://www.ticketmaster.fr/fr/manifes
- tation/jesse-billet/idmanif/635910/idseance/4169759
-LOCATION:RADIANT - BELLEVUE\, 1 RUE JEAN MOULIN\, 69300\, Caluire Et Cuire
-URL:https://www.ticketmaster.fr/fr/manifestation/jesse-billet/idmanif/6359
- 10/idseance/4169759
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎤 COMEDY CLUB
-DTSTART:20261017T200000Z
-DTEND:20261017T223000Z
-DTSTAMP:20261012T123926Z
-UID:tm-ZkyMmBwZ1A7uzoN@agenda-lyon
-CATEGORIES:Stand-up / humour
-DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
-  explosive !Le Complexe café-théâtre a minutieusement sélectionné pou
- r vous une équipe d’artistes qui maîtrisent l’art du stand-up comme 
- personne !Que vous aimiez l’humour décalé\, l’observation sarcastiqu
- e de la vie quotidienne\, ou les réflexions profondes habilement déguis
- ées en punchlines\, il y en aura pour tous les goûts et nous vous…\n\n
- 🎟 Billetterie : https://www.ticketmaster.fr/fr/manifestation/comedy-clu
- b-billet/idmanif/658274/idtier/18864121
-LOCATION:LE COMPLEXE CAFE-THEATRE\, 7 RUE DES CAPUCINS -\, 69001\, Lyon
-URL:https://www.ticketmaster.fr/fr/manifestation/comedy-club-billet/idmani
- f/658274/idtier/18864121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎤 PHILIPPE LELLOUCHE
-DTSTART:20261018T160000Z
-DTEND:20261018T183000Z
-DTSTAMP:20261012T123926Z
-UID:tm-ZkyMmBwZ1A7a_k4@agenda-lyon
-CATEGORIES:Stand-up / humour
-DESCRIPTION:PHILIPPE LELLOUCHEEN TOURNÉEUn spectacle drôle et réconfort
- ant de souvenirs heureux où il partage avec autodérision\, son enfance\,
-  ses émois amoureux et bien sûr ses névroses.Après 15 ans de triomphe 
- au théâtre\, Philippe Lellouche vous propose un voyage dans le temps dan
- s son premier seul en scène.Un moment de bonheur assumé dont nous avons 
- tous besoin.En tournée et à la Cigale les 29 et 30…\n\n🎟 Billetteri
- e : https://www.ticketmaster.fr/fr/manifestation/philippe-lellouche-billet
- /idmanif/648058/idtier/18864121
-LOCATION:RADIANT - BELLEVUE\, 1 RUE JEAN MOULIN\, 69300\, Caluire Et Cuire
-URL:https://www.ticketmaster.fr/fr/manifestation/philippe-lellouche-billet
- /idmanif/648058/idtier/18864121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎵 TIF
-DTSTART:20261018T180000Z
-DTEND:20261018T203000Z
-DTSTAMP:20261012T123926Z
-UID:tm-ZkyMmBwZ1A7uxoA@agenda-lyon
-CATEGORIES:Concert
-DESCRIPTION:- Les mineurs de moins de 16 ans doivent obligatoirement être
-  accompagnés par leur tuteur légal : parents ou tuteur légal (pas sœur
- \, frère ou autre).- Pièce d'identité obligatoire pour entrer : carte d
- 'identité\, passeport\, permis de conduire (photocopie ou photographie no
- n acceptée.)Tif c’est avant tout une musique qui se vit. Des lives sess
- ions avec ses musiciens aux concerts enflammés avec le…\n\n🎟 Billett
- erie : https://www.ticketmaster.fr/fr/manifestation/tif-billet/idmanif/663
- 936/idtier/18864121
-LOCATION:LE TRANSBORDEUR\, 3 BD STALINGRAD\, 69100\, Villeurbanne
-URL:https://www.ticketmaster.fr/fr/manifestation/tif-billet/idmanif/663936
- /idtier/18864121
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎵 GHINZU
 DTSTART:20261019T180000Z
 DTEND:20261019T203000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7G3bJ@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:RADICAL PRODUCTION PRÉSENTE : GHINZUDix-sept longues années 
@@ -421,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 ZED YUN PAVAROTTI
 DTSTART:20261020T180000Z
 DTEND:20261020T203000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7GbC6@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:La SAS (L-R-21-3557/L-R-21-3559) en accord avec AEG PRESENTS F
@@ -436,7 +44,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 LES DIVINES
 DTSTART:20261020T183000Z
 DTEND:20261020T210000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uZba@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:ESPACE GERSON PRESENTE : LES DIVINESLudivine autiste est la ni
@@ -455,7 +63,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 L'ECOLE DES FEMMES
 DTSTART:20261020T183000Z
 DTEND:20261020T210000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uef3@agenda-lyon
 CATEGORIES:Théâtre
 DESCRIPTION:L'école des femmesDans cette mise en scène de « L’École 
@@ -471,10 +79,29 @@ URL:https://www.ticketmaster.fr/fr/manifestation/l-ecole-des-femmes-billet
  /idmanif/660229/idtier/18864121
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🖼 EXPOSITION ROBERT DOISNEAU (jusqu'au 24 déc.)
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+DTSTAMP:20261019T102600Z
+UID:run-cd63958197cfac54@agenda-lyon
+CATEGORIES:Exposition
+DESCRIPTION:📅 Du 21 oct. 2026 au 24 déc. 2026.\n\nLA SUCRIÈRE - LYON 
+ :EXPOSITION ROBERT DOISNEAU - INSTANTS DONNESL'exposition Robert Doisneau.
+  Instants Donnés vous propose un parcours prodigieux de plus de 400 photo
+ graphies pour découvrir l'œuvre de ce célèbre photographe ! La Sucriè
+ re à Lyon accueille une rétrospective d’envergure consacrée à Robert
+  Doisneau\, l’un des plus grands maîtres de la photographie du XXe siè
+ cle.\n\n🎟 Billetterie : https://www.ticketmaster.fr/fr/manifestation/ex
+ position-robert-doisneau-billet/idmanif/658717/idtier/18864121
+LOCATION:LA SUCRIERE\, 49-50 quai Rambaud\, 69002\, Lyon
+URL:https://www.ticketmaster.fr/fr/manifestation/exposition-robert-doisnea
+ u-billet/idmanif/658717/idtier/18864121
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎵 THE CELTIC SOCIAL CLUB
 DTSTART:20261021T180000Z
 DTEND:20261021T203000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7FUQk@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Concert « THE CELTIC SOCIAL CLUB » à LE TRANSBORDEUR (Ville
@@ -490,7 +117,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 LA MACHINE DE TURING
 DTSTART:20261021T180000Z
 DTEND:20261021T203000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7u-4e@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:SAS THEATRE DE L'ODEON PRÉSENTE : LA MACHINE DE TURINGUne pi
@@ -506,29 +133,10 @@ URL:https://www.ticketmaster.fr/fr/manifestation/la-machine-de-turing-bill
  et/idmanif/663768/idtier/18864121
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎤 COMEDY CLUB
-DTSTART:20261021T183000Z
-DTEND:20261021T210000Z
-DTSTAMP:20261012T123926Z
-UID:tm-ZkyMmBwZ1A7uzfo@agenda-lyon
-CATEGORIES:Stand-up / humour
-DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
-  explosive !Le Complexe café-théâtre a minutieusement sélectionné pou
- r vous une équipe d’artistes qui maîtrisent l’art du stand-up comme 
- personne !Que vous aimiez l’humour décalé\, l’observation sarcastiqu
- e de la vie quotidienne\, ou les réflexions profondes habilement déguis
- ées en punchlines\, il y en aura pour tous les goûts et nous vous…\n\n
- 🎟 Billetterie : https://www.ticketmaster.fr/fr/manifestation/comedy-clu
- b-billet/idmanif/658274/idtier/18864121
-LOCATION:LE COMPLEXE CAFE-THEATRE\, 7 RUE DES CAPUCINS -\, 69001\, Lyon
-URL:https://www.ticketmaster.fr/fr/manifestation/comedy-club-billet/idmani
- f/658274/idtier/18864121
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎭 L'ECOLE DES FEMMES
 DTSTART:20261021T183000Z
 DTEND:20261021T210000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uefK@agenda-lyon
 CATEGORIES:Théâtre
 DESCRIPTION:L'école des femmesDans cette mise en scène de « L’École 
@@ -544,10 +152,29 @@ URL:https://www.ticketmaster.fr/fr/manifestation/l-ecole-des-femmes-billet
  /idmanif/660229/idtier/18864121
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎤 COMEDY CLUB
+DTSTART:20261021T183000Z
+DTEND:20261021T210000Z
+DTSTAMP:20261019T102600Z
+UID:tm-ZkyMmBwZ1A7uzfo@agenda-lyon
+CATEGORIES:Stand-up / humour
+DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
+  explosive !Le Complexe café-théâtre a minutieusement sélectionné pou
+ r vous une équipe d’artistes qui maîtrisent l’art du stand-up comme 
+ personne !Que vous aimiez l’humour décalé\, l’observation sarcastiqu
+ e de la vie quotidienne\, ou les réflexions profondes habilement déguis
+ ées en punchlines\, il y en aura pour tous les goûts et nous vous…\n\n
+ 🎟 Billetterie : https://www.ticketmaster.fr/fr/manifestation/comedy-clu
+ b-billet/idmanif/658274/idseance/4378511
+LOCATION:LE COMPLEXE CAFE-THEATRE\, 7 RUE DES CAPUCINS -\, 69001\, Lyon
+URL:https://www.ticketmaster.fr/fr/manifestation/comedy-club-billet/idmani
+ f/658274/idseance/4378511
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎤 SYLVAIN MORAND
 DTSTART:20261021T183000Z
 DTEND:20261021T210000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7G0f4@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:ESPACE GERSON PRESENTE : SYLVAIN MORANDCe spectacle n’a volo
@@ -563,7 +190,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 A6EL
 DTSTART:20261022T180000Z
 DTEND:20261022T203000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uOOb@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:RPO (L-2-R-21-11050/11069) en accord avec AEG PRESENTS FRANCE 
@@ -582,7 +209,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 LA MACHINE DE TURING
 DTSTART:20261022T180000Z
 DTEND:20261022T203000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7u-4d@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:SAS THEATRE DE L'ODEON PRÉSENTE : LA MACHINE DE TURINGUne pi
@@ -601,7 +228,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 TINA ARENA
 DTSTART:20261022T183000Z
 DTEND:20261022T210000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-rZ7SnyZ1A7ZEA7@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:ALEXANDRE SORIN PRODUCTIONS PRESENTE : TINA ARENALa star austr
@@ -620,7 +247,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 COMEDY CLUB
 DTSTART:20261022T183000Z
 DTEND:20261022T210000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uzoP@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
@@ -630,16 +257,16 @@ DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
  e de la vie quotidienne\, ou les réflexions profondes habilement déguis
  ées en punchlines\, il y en aura pour tous les goûts et nous vous…\n\n
  🎟 Billetterie : https://www.ticketmaster.fr/fr/manifestation/comedy-clu
- b-billet/idmanif/658274/idtier/18864121
+ b-billet/idmanif/658274/idseance/4378465
 LOCATION:LE COMPLEXE CAFE-THEATRE\, 7 RUE DES CAPUCINS -\, 69001\, Lyon
 URL:https://www.ticketmaster.fr/fr/manifestation/comedy-club-billet/idmani
- f/658274/idtier/18864121
+ f/658274/idseance/4378465
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎤 SYLVAIN MORAND
 DTSTART:20261022T183000Z
 DTEND:20261022T210000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7G0fp@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:ESPACE GERSON PRESENTE : SYLVAIN MORANDCe spectacle n’a volo
@@ -655,7 +282,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 NeS
 DTSTART:20261023T180000Z
 DTEND:20261023T203000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7a0oA@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:- Les mineurs de moins de 16 ans doivent obligatoirement être
@@ -674,7 +301,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 ROMSII
 DTSTART:20261023T180000Z
 DTEND:20261023T203000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7u8r3@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:High-Lo présente : ROMSIILes mineurs sont autorisés et les m
@@ -689,29 +316,10 @@ URL:https://www.ticketmaster.fr/fr/manifestation/romsii-billet/idmanif/661
  430/idtier/18864121
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎤 COMEDY CLUB
-DTSTART:20261023T180000Z
-DTEND:20261023T203000Z
-DTSTAMP:20261012T123926Z
-UID:tm-ZkyMmBwZ1A7uzoJ@agenda-lyon
-CATEGORIES:Stand-up / humour
-DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
-  explosive !Le Complexe café-théâtre a minutieusement sélectionné pou
- r vous une équipe d’artistes qui maîtrisent l’art du stand-up comme 
- personne !Que vous aimiez l’humour décalé\, l’observation sarcastiqu
- e de la vie quotidienne\, ou les réflexions profondes habilement déguis
- ées en punchlines\, il y en aura pour tous les goûts et nous vous…\n\n
- 🎟 Billetterie : https://www.ticketmaster.fr/fr/manifestation/comedy-clu
- b-billet/idmanif/658274/idtier/18864121
-LOCATION:LE COMPLEXE CAFE-THEATRE\, 7 RUE DES CAPUCINS -\, 69001\, Lyon
-URL:https://www.ticketmaster.fr/fr/manifestation/comedy-club-billet/idmani
- f/658274/idtier/18864121
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎤 LA MACHINE DE TURING
 DTSTART:20261023T180000Z
 DTEND:20261023T203000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7u-47@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:SAS THEATRE DE L'ODEON PRÉSENTE : LA MACHINE DE TURINGUne pi
@@ -727,10 +335,29 @@ URL:https://www.ticketmaster.fr/fr/manifestation/la-machine-de-turing-bill
  et/idmanif/663768/idtier/18864121
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎤 COMEDY CLUB
+DTSTART:20261023T180000Z
+DTEND:20261023T203000Z
+DTSTAMP:20261019T102600Z
+UID:tm-ZkyMmBwZ1A7uzoJ@agenda-lyon
+CATEGORIES:Stand-up / humour
+DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
+  explosive !Le Complexe café-théâtre a minutieusement sélectionné pou
+ r vous une équipe d’artistes qui maîtrisent l’art du stand-up comme 
+ personne !Que vous aimiez l’humour décalé\, l’observation sarcastiqu
+ e de la vie quotidienne\, ou les réflexions profondes habilement déguis
+ ées en punchlines\, il y en aura pour tous les goûts et nous vous…\n\n
+ 🎟 Billetterie : https://www.ticketmaster.fr/fr/manifestation/comedy-clu
+ b-billet/idmanif/658274/idseance/4378466
+LOCATION:LE COMPLEXE CAFE-THEATRE\, 7 RUE DES CAPUCINS -\, 69001\, Lyon
+URL:https://www.ticketmaster.fr/fr/manifestation/comedy-club-billet/idmani
+ f/658274/idseance/4378466
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎤 CELESTE BARBER - BACKUP DANCER - CELESTE BARBER
 DTSTART:20261023T180000Z
 DTEND:20261023T203000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7CZbv@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:CELESTE BARBER - BACKUP DANCER SPECTACLE EN ANGLAIS NON-SURTIT
@@ -747,7 +374,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 SYLVAIN MORAND
 DTSTART:20261023T183000Z
 DTEND:20261023T210000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7G0f9@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:ESPACE GERSON PRESENTE : SYLVAIN MORANDCe spectacle n’a volo
@@ -763,7 +390,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 LE VOISIN 3
 DTSTART:20261024T164500Z
 DTEND:20261024T191500Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uZja@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:Alerte : Voisin en vue ! Velours court\, cheveux gras et plus 
@@ -779,7 +406,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 EVE   ULYSSE - EVE ULYSSE
 DTSTART:20261024T173000Z
 DTEND:20261024T200000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7C7Av@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Ève est un artiste de la scène pop indépendante\, reconnu p
@@ -798,7 +425,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 NOOR
 DTSTART:20261024T180000Z
 DTEND:20261024T203000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7u78_@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Un coeur. Des départs\, des absences\, des mensonges. 1900 jo
@@ -809,29 +436,10 @@ URL:https://www.ticketmaster.fr/fr/manifestation/noor-billet/idmanif/66077
  8/idtier/18864121
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎤 COMEDY CLUB
-DTSTART:20261024T180000Z
-DTEND:20261024T203000Z
-DTSTAMP:20261012T123926Z
-UID:tm-ZkyMmBwZ1A7uzoI@agenda-lyon
-CATEGORIES:Stand-up / humour
-DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
-  explosive !Le Complexe café-théâtre a minutieusement sélectionné pou
- r vous une équipe d’artistes qui maîtrisent l’art du stand-up comme 
- personne !Que vous aimiez l’humour décalé\, l’observation sarcastiqu
- e de la vie quotidienne\, ou les réflexions profondes habilement déguis
- ées en punchlines\, il y en aura pour tous les goûts et nous vous…\n\n
- 🎟 Billetterie : https://www.ticketmaster.fr/fr/manifestation/comedy-clu
- b-billet/idmanif/658274/idtier/18864121
-LOCATION:LE COMPLEXE CAFE-THEATRE\, 7 RUE DES CAPUCINS -\, 69001\, Lyon
-URL:https://www.ticketmaster.fr/fr/manifestation/comedy-club-billet/idmani
- f/658274/idtier/18864121
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎤 LA MACHINE DE TURING
 DTSTART:20261024T180000Z
 DTEND:20261024T203000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7u-4A@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:SAS THEATRE DE L'ODEON PRÉSENTE : LA MACHINE DE TURINGUne pi
@@ -847,10 +455,29 @@ URL:https://www.ticketmaster.fr/fr/manifestation/la-machine-de-turing-bill
  et/idmanif/663768/idtier/18864121
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎤 COMEDY CLUB
+DTSTART:20261024T180000Z
+DTEND:20261024T203000Z
+DTSTAMP:20261019T102600Z
+UID:tm-ZkyMmBwZ1A7uzoI@agenda-lyon
+CATEGORIES:Stand-up / humour
+DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
+  explosive !Le Complexe café-théâtre a minutieusement sélectionné pou
+ r vous une équipe d’artistes qui maîtrisent l’art du stand-up comme 
+ personne !Que vous aimiez l’humour décalé\, l’observation sarcastiqu
+ e de la vie quotidienne\, ou les réflexions profondes habilement déguis
+ ées en punchlines\, il y en aura pour tous les goûts et nous vous…\n\n
+ 🎟 Billetterie : https://www.ticketmaster.fr/fr/manifestation/comedy-clu
+ b-billet/idmanif/658274/idseance/4378468
+LOCATION:LE COMPLEXE CAFE-THEATRE\, 7 RUE DES CAPUCINS -\, 69001\, Lyon
+URL:https://www.ticketmaster.fr/fr/manifestation/comedy-club-billet/idmani
+ f/658274/idseance/4378468
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎤 SYLVAIN MORAND
 DTSTART:20261024T191500Z
 DTEND:20261024T214500Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7G0fb@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:ESPACE GERSON PRESENTE : SYLVAIN MORANDCe spectacle n’a volo
@@ -866,7 +493,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 EDGAR YVES JR.
 DTSTART:20261025T170000Z
 DTEND:20261025T193000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7kfj6@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:Stand-up / humour « EDGAR YVES JR. » à RADIANT - BELLEVUE (
@@ -881,7 +508,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 3 - L'IMPRO FFF
 DTSTART:20261027T193000Z
 DTEND:20261027T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7Gbvb@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:Tous les derniers mardis de chaque moisConçue par Cécile Gir
@@ -900,7 +527,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 LINH
 DTSTART:20261028T190000Z
 DTEND:20261028T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7FyAI@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Concert « LINH » à BOURSE DU TRAVAIL (Lyon). Genre : Chanso
@@ -915,7 +542,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 WALLACE CLEAVER
 DTSTART:20261028T190000Z
 DTEND:20261028T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7G_FU@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Une musique différente\, pour une localisation différente. O
@@ -934,7 +561,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 LA MACHINE DE TURING
 DTSTART:20261028T190000Z
 DTEND:20261028T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7u-4k@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:SAS THEATRE DE L'ODEON PRÉSENTE : LA MACHINE DE TURINGUne pi
@@ -953,7 +580,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 COMEDY CLUB
 DTSTART:20261028T193000Z
 DTEND:20261028T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uzf3@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
@@ -963,16 +590,16 @@ DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
  e de la vie quotidienne\, ou les réflexions profondes habilement déguis
  ées en punchlines\, il y en aura pour tous les goûts et nous vous…\n\n
  🎟 Billetterie : https://www.ticketmaster.fr/fr/manifestation/comedy-clu
- b-billet/idmanif/658274/idtier/18864121
+ b-billet/idmanif/658274/idseance/4378512
 LOCATION:LE COMPLEXE CAFE-THEATRE\, 7 RUE DES CAPUCINS -\, 69001\, Lyon
 URL:https://www.ticketmaster.fr/fr/manifestation/comedy-club-billet/idmani
- f/658274/idtier/18864121
+ f/658274/idseance/4378512
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎤 LE GRAND SACRIPANT
 DTSTART:20261028T193000Z
 DTEND:20261028T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7udkb@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:ESPACEGERSON PRESENTE : LE GRAND SACRIPANT“Et si on prenait 
@@ -991,7 +618,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 LA MACHINE DE TURING
 DTSTART:20261029T190000Z
 DTEND:20261029T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7u-46@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:SAS THEATRE DE L'ODEON PRÉSENTE : LA MACHINE DE TURINGUne pi
@@ -1010,7 +637,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 AUDREY VERNON
 DTSTART:20261029T190000Z
 DTEND:20261029T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A71dvY@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:ELDORADO PRESENTE EN ACCORD AVEC FOURCHETTE SUISSE PRODUCTIONS
@@ -1029,7 +656,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 COMEDY CLUB
 DTSTART:20261029T193000Z
 DTEND:20261029T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uzot@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
@@ -1039,35 +666,16 @@ DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
  e de la vie quotidienne\, ou les réflexions profondes habilement déguis
  ées en punchlines\, il y en aura pour tous les goûts et nous vous…\n\n
  🎟 Billetterie : https://www.ticketmaster.fr/fr/manifestation/comedy-clu
- b-billet/idmanif/658274/idtier/18864121
+ b-billet/idmanif/658274/idseance/4378469
 LOCATION:LE COMPLEXE CAFE-THEATRE\, 7 RUE DES CAPUCINS -\, 69001\, Lyon
 URL:https://www.ticketmaster.fr/fr/manifestation/comedy-club-billet/idmani
- f/658274/idtier/18864121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎤 KINO
-DTSTART:20261029T193000Z
-DTEND:20261029T220000Z
-DTSTAMP:20261012T123926Z
-UID:tm-ZkyMmBwZ1A7G688@agenda-lyon
-CATEGORIES:Stand-up / humour
-DESCRIPTION:ESPACE GERSON PRESENTE : KINOAlors que tout allait bien dans s
- a vie… elle est arrivée.La première.Celle dont on se souvient toujours
-  : L’attaque de panicKino va être diagnostiqué d’une anxiété gén
- éralisée avec option agoraphobie.Le meilleur diagnostic possible quand o
- n joue tous les soirs devant des centaines depersonnes\, dans une salle\, 
- fermée\, sans fenêtres. Parfait timing.Aujourd’hui\, tout va…\n\n
- 🎟 Billetterie : https://www.ticketmaster.fr/fr/manifestation/kino-bille
- t/idmanif/654911/idtier/18864121
-LOCATION:ESPACE GERSON\, 1 PLACE GERSON\, 69005\, Lyon
-URL:https://www.ticketmaster.fr/fr/manifestation/kino-billet/idmanif/65491
- 1/idtier/18864121
+ f/658274/idseance/4378469
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎵 ZOUFRIS MARACAS
 DTSTART:20261030T190000Z
 DTEND:20261030T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uzPA@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:ZOUFRIS MARACASFR – ChansonAltermondialistes et sans fronti
@@ -1084,7 +692,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 KERY JAMES   FRS TAGA
 DTSTART:20261030T190000Z
 DTEND:20261030T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7GJqf@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:LES ABATTOIRS PRESENTENT : KERY JAMES FRS TAGAEn 2025\, Kery J
@@ -1101,29 +709,10 @@ URL:https://www.ticketmaster.fr/fr/manifestation/kery-james-frs-taga-bille
  t/idmanif/658318/idtier/18864121
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎤 COMEDY CLUB
-DTSTART:20261030T190000Z
-DTEND:20261030T213000Z
-DTSTAMP:20261012T123926Z
-UID:tm-ZkyMmBwZ1A7uzoY@agenda-lyon
-CATEGORIES:Stand-up / humour
-DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
-  explosive !Le Complexe café-théâtre a minutieusement sélectionné pou
- r vous une équipe d’artistes qui maîtrisent l’art du stand-up comme 
- personne !Que vous aimiez l’humour décalé\, l’observation sarcastiqu
- e de la vie quotidienne\, ou les réflexions profondes habilement déguis
- ées en punchlines\, il y en aura pour tous les goûts et nous vous…\n\n
- 🎟 Billetterie : https://www.ticketmaster.fr/fr/manifestation/comedy-clu
- b-billet/idmanif/658274/idtier/18864121
-LOCATION:LE COMPLEXE CAFE-THEATRE\, 7 RUE DES CAPUCINS -\, 69001\, Lyon
-URL:https://www.ticketmaster.fr/fr/manifestation/comedy-club-billet/idmani
- f/658274/idtier/18864121
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎤 LA MACHINE DE TURING
 DTSTART:20261030T190000Z
 DTEND:20261030T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7u-4F@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:SAS THEATRE DE L'ODEON PRÉSENTE : LA MACHINE DE TURINGUne pi
@@ -1139,11 +728,30 @@ URL:https://www.ticketmaster.fr/fr/manifestation/la-machine-de-turing-bill
  et/idmanif/663768/idtier/18864121
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎤 COMEDY CLUB
+DTSTART:20261030T190000Z
+DTEND:20261030T213000Z
+DTSTAMP:20261019T102600Z
+UID:tm-ZkyMmBwZ1A7uzoY@agenda-lyon
+CATEGORIES:Stand-up / humour
+DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
+  explosive !Le Complexe café-théâtre a minutieusement sélectionné pou
+ r vous une équipe d’artistes qui maîtrisent l’art du stand-up comme 
+ personne !Que vous aimiez l’humour décalé\, l’observation sarcastiqu
+ e de la vie quotidienne\, ou les réflexions profondes habilement déguis
+ ées en punchlines\, il y en aura pour tous les goûts et nous vous…\n\n
+ 🎟 Billetterie : https://www.ticketmaster.fr/fr/manifestation/comedy-clu
+ b-billet/idmanif/658274/idseance/4378470
+LOCATION:LE COMPLEXE CAFE-THEATRE\, 7 RUE DES CAPUCINS -\, 69001\, Lyon
+URL:https://www.ticketmaster.fr/fr/manifestation/comedy-club-billet/idmani
+ f/658274/idseance/4378470
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎭 TOUTE L'HISTOIRE DE LA PEINTURE - TOUTE L'HISTOIRE DE LA PEIN
  TURE EN MOINS DE DEUX H
 DTSTART:20261030T190000Z
 DTEND:20261030T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-rZ7SnyZ1A7Awqb@agenda-lyon
 CATEGORIES:Théâtre
 DESCRIPTION:RPO (L-2-R-21-11050/11069) présente en accord avec CORPUS PRO
@@ -1158,7 +766,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 STEPHAN EICHER
 DTSTART:20261030T193000Z
 DTEND:20261030T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7Gv_E@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Radiant-Bellevue (L-R-21-3056/L-R-21-3896) présente en accord
@@ -1173,7 +781,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 CHIMENE BADI
 DTSTART:20261030T193000Z
 DTEND:20261030T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7F-8V@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Chimène entame une nouvelle tournée live dans laquelle elle 
@@ -1192,7 +800,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 KINO
 DTSTART:20261030T193000Z
 DTEND:20261030T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7G68o@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:ESPACE GERSON PRESENTE : KINOAlors que tout allait bien dans s
@@ -1211,7 +819,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 LA NUIT DU GOUYAD II
 DTSTART:20261030T223000Z
 DTEND:20261031T010000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uzv9@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:DJ KAWESTFR – Afrobeat / Shatta / Zouk DE LA TOILE AUX PISTE
@@ -1230,7 +838,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 TELLE EST LA QUESTION
 DTSTART:20261031T160000Z
 DTEND:20261031T183000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7usx6@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:SAS THEATRE DE L'ODEON PRÉSENTE : TELLE EST LA QUESTIONGenre 
@@ -1249,7 +857,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 LE VOISIN 3
 DTSTART:20261031T174500Z
 DTEND:20261031T201500Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uZj8@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:Alerte : Voisin en vue ! Velours court\, cheveux gras et plus 
@@ -1265,7 +873,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 JULIEN LIEB
 DTSTART:20261031T190000Z
 DTEND:20261031T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7GAAb@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:RPO (L-2-R-21-11050/11069) présente en accord avec PLAY TWO L
@@ -1280,7 +888,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 FINK
 DTSTART:20261031T190000Z
 DTEND:20261031T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A719P_@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:La SAS (L-R-21-3557/L-R-21-3559) et AEG PRESENTS FRANCE prése
@@ -1294,7 +902,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 COMEDY CLUB
 DTSTART:20261031T190000Z
 DTEND:20261031T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uzow@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
@@ -1304,17 +912,17 @@ DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
  e de la vie quotidienne\, ou les réflexions profondes habilement déguis
  ées en punchlines\, il y en aura pour tous les goûts et nous vous…\n\n
  🎟 Billetterie : https://www.ticketmaster.fr/fr/manifestation/comedy-clu
- b-billet/idmanif/658274/idtier/18864121
+ b-billet/idmanif/658274/idseance/4378472
 LOCATION:LE COMPLEXE CAFE-THEATRE\, 7 RUE DES CAPUCINS -\, 69001\, Lyon
 URL:https://www.ticketmaster.fr/fr/manifestation/comedy-club-billet/idmani
- f/658274/idtier/18864121
+ f/658274/idseance/4378472
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎭 A CONTRESENS\, DE LA POLICE JUDICIAIRE - A CONTRESENS\, DE LA
   POLICE JUDICIAIRE A LA SCENE
 DTSTART:20261031T190000Z
 DTEND:20261031T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A78Kpo@agenda-lyon
 CATEGORIES:Théâtre
 DESCRIPTION:Genre : Seul en scèneDurée : 1h20 De et avec : Thierry Roudi
@@ -1333,7 +941,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 STEPHAN EICHER
 DTSTART:20261031T193000Z
 DTEND:20261031T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7Gv_I@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Radiant-Bellevue (L-R-21-3056/L-R-21-3896) présente en accord
@@ -1348,7 +956,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 KINO
 DTSTART:20261031T201500Z
 DTEND:20261031T224500Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7G683@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:ESPACE GERSON PRESENTE : KINOAlors que tout allait bien dans s
@@ -1367,7 +975,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 SAINT LEVANT
 DTSTART:20261101T190000Z
 DTEND:20261101T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A78ev9@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Soyez parmi les premiers à réserver vos billets : Prévente 
@@ -1386,7 +994,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 EMILY LOIZEAU & QUATUOR DEBUSSY
 DTSTART:20261103T193000Z
 DTEND:20261103T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7ueOa@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Emily Loizeau & Quatuor DebussyAutrice\, compositrice et inter
@@ -1405,7 +1013,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 EMBRASSE TA MERE
 DTSTART:20261103T193000Z
 DTEND:20261103T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7G-uO@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:ESPACE GERSON PRESENTE : EMBRASSE TA MEREAlors qu’elles pren
@@ -1424,7 +1032,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 LE PORTEUR D'HISTOIRE
 DTSTART:20261104T180000Z
 DTEND:20261104T203000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7u-4a@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:SAS THEATRE DE L'ODEON PRÉSENTE : LE PORTEUR D'HISTOIRE\n\n
@@ -1438,7 +1046,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 MIKE D 5D
 DTSTART:20261104T190000Z
 DTEND:20261104T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7Ck4E@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Concert « MIKE D 5D » à LE TRANSBORDEUR (Villeurbanne). Gen
@@ -1453,7 +1061,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 FRANCOIS GUEDON
 DTSTART:20261104T193000Z
 DTEND:20261104T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7G8GV@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:ESPACE GERSON PRESENTE : FRANCOIS GUEDONAprès son spectacle L
@@ -1472,7 +1080,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 MADE IN FRANCE
 DTSTART:20261104T193000Z
 DTEND:20261104T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7ueOo@agenda-lyon
 CATEGORIES:Théâtre
 DESCRIPTION:Made in France« Made in France » est un spectacle qui racont
@@ -1490,7 +1098,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 C'ETAIT QUAND LA DERNIERE FOIS ?
 DTSTART:20261104T200000Z
 DTEND:20261104T223000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7CFQp@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:De : Emmanuel Robert-EspalieuAvec : Romy Chenelat et Yohan Gen
@@ -1509,7 +1117,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 LE PORTEUR D'HISTOIRE
 DTSTART:20261105T180000Z
 DTEND:20261105T203000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7u-48@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:SAS THEATRE DE L'ODEON PRÉSENTE : LE PORTEUR D'HISTOIRE\n\n
@@ -1523,7 +1131,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 EKATERINA SHELEHOVA
 DTSTART:20261105T190000Z
 DTEND:20261105T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A783xe@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:EKATERINA SHELEHOVARU – World / LyriqueEkaterina Shelehova e
@@ -1542,7 +1150,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 DJADJA & DINAZ
 DTSTART:20261105T190000Z
 DTEND:20261105T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-rZ7SnyZ1A77xeK@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:DÉCIBELS PRODUCTIONS ET CARRE MUSIC PRÉSENTENT : DJADJA & DI
@@ -1561,7 +1169,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 LA SECURITE   RIEN FAIRE
 DTSTART:20261105T190000Z
 DTEND:20261105T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7ufPJ@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:LES ABATTOIRS PRESENTENT : LA SECURITE RIEN FAIRELa Sécurité
@@ -1581,7 +1189,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 MORGANE BERLING
 DTSTART:20261105T190000Z
 DTEND:20261105T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7k_fU@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:Stand-up / humour « MORGANE BERLING » à SALLE PAUL GARCIN (
@@ -1596,7 +1204,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 ALAN STIVELL
 DTSTART:20261105T193000Z
 DTEND:20261105T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A71v8V@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:RADIANT-BELLEVUE présente en accord avec Arachnée Production
@@ -1610,7 +1218,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 COMEDY CLUB
 DTSTART:20261105T193000Z
 DTEND:20261105T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uzoS@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
@@ -1620,16 +1228,16 @@ DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
  e de la vie quotidienne\, ou les réflexions profondes habilement déguis
  ées en punchlines\, il y en aura pour tous les goûts et nous vous…\n\n
  🎟 Billetterie : https://www.ticketmaster.fr/fr/manifestation/comedy-clu
- b-billet/idmanif/658274/idtier/18864121
+ b-billet/idmanif/658274/idseance/4378473
 LOCATION:LE COMPLEXE CAFE-THEATRE\, 7 RUE DES CAPUCINS -\, 69001\, Lyon
 URL:https://www.ticketmaster.fr/fr/manifestation/comedy-club-billet/idmani
- f/658274/idtier/18864121
+ f/658274/idseance/4378473
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎤 FRANCOIS GUEDON
 DTSTART:20261105T193000Z
 DTEND:20261105T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7G8Gg@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:ESPACE GERSON PRESENTE : FRANCOIS GUEDONAprès son spectacle L
@@ -1648,7 +1256,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 C'ETAIT QUAND LA DERNIERE FOIS ?
 DTSTART:20261105T200000Z
 DTEND:20261105T223000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7CFQb@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:De : Emmanuel Robert-EspalieuAvec : Romy Chenelat et Yohan Gen
@@ -1667,7 +1275,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 LE PORTEUR D'HISTOIRE
 DTSTART:20261106T180000Z
 DTEND:20261106T203000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7u-4o@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:SAS THEATRE DE L'ODEON PRÉSENTE : LE PORTEUR D'HISTOIRE\n\n
@@ -1681,7 +1289,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 DJADJA & DINAZ
 DTSTART:20261106T190000Z
 DTEND:20261106T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7aOuV@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:DÉCIBELS PRODUCTIONS ET CARRE MUSIC PRÉSENTENT : DJADJA & DI
@@ -1700,7 +1308,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 COBALT & DAYSY
 DTSTART:20261106T190000Z
 DTEND:20261106T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A78wbk@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Coball & DaysyLa tournée acoustiqueQuand l'automne appelle à
@@ -1719,7 +1327,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 LA P'TITE FUMÉE
 DTSTART:20261106T190000Z
 DTEND:20261106T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uz0z@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:FR – Hybrid Electro TranceLa P’tite Fumée signe son grand
@@ -1738,7 +1346,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 LP
 DTSTART:20261106T190000Z
 DTEND:20261106T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7G0ob@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Soyez parmi les premiers à réserver vos billetsPrévente Tic
@@ -1757,7 +1365,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 FRANCOIS GUEDON
 DTSTART:20261106T193000Z
 DTEND:20261106T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7G8GU@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:ESPACE GERSON PRESENTE : FRANCOIS GUEDONAprès son spectacle L
@@ -1776,7 +1384,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 LA DEMANDE EN MARIAGE ET L'OURS
 DTSTART:20261106T193000Z
 DTEND:20261106T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A788_V@agenda-lyon
 CATEGORIES:Théâtre
 DESCRIPTION:PAR LE THÉÂTRE OBLIQUE\,D’APRÈS LES ŒUVRES D’ANTON TCH
@@ -1795,7 +1403,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 C'ETAIT QUAND LA DERNIERE FOIS ?
 DTSTART:20261106T200000Z
 DTEND:20261106T223000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7CFQ_@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:De : Emmanuel Robert-EspalieuAvec : Romy Chenelat et Yohan Gen
@@ -1814,7 +1422,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 COMEDY CLUB
 DTSTART:20261106T210000Z
 DTEND:20261106T233000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uzoV@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
@@ -1824,16 +1432,16 @@ DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
  e de la vie quotidienne\, ou les réflexions profondes habilement déguis
  ées en punchlines\, il y en aura pour tous les goûts et nous vous…\n\n
  🎟 Billetterie : https://www.ticketmaster.fr/fr/manifestation/comedy-clu
- b-billet/idmanif/658274/idtier/18864121
+ b-billet/idmanif/658274/idseance/4378474
 LOCATION:LE COMPLEXE CAFE-THEATRE\, 7 RUE DES CAPUCINS -\, 69001\, Lyon
 URL:https://www.ticketmaster.fr/fr/manifestation/comedy-club-billet/idmani
- f/658274/idtier/18864121
+ f/658274/idseance/4378474
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎤 LE GRAND SACRIPANT
 DTSTART:20261107T174500Z
 DTEND:20261107T201500Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7udk_@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:ESPACEGERSON PRESENTE : LE GRAND SACRIPANT“Et si on prenait 
@@ -1852,7 +1460,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 LE PORTEUR D'HISTOIRE
 DTSTART:20261107T180000Z
 DTEND:20261107T203000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7u-43@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:SAS THEATRE DE L'ODEON PRÉSENTE : LE PORTEUR D'HISTOIRE\n\n
@@ -1866,7 +1474,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 LES GROSSES GUITARES 2026 - ACTE 2
 DTSTART:20261107T183000Z
 DTEND:20261107T210000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uPo-@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:MESSIMY BLUES ROCK PRÉSENTE : LES GROSSES GUITARES 2026 ACTE 
@@ -1886,7 +1494,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 NAÏM - CHAPITRE 3
 DTSTART:20261107T183000Z
 DTEND:20261107T210000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7a384@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:LL PROD ( PLATESV-D2020-003821) présente:NAÏM - CHAPITRE 3\n
@@ -1900,7 +1508,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 JWLES
 DTSTART:20261107T190000Z
 DTEND:20261107T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7GxFg@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Français ayant grandi aux États-Unis et aujourd’hui basé 
@@ -1919,7 +1527,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 FERDI
 DTSTART:20261107T190000Z
 DTEND:20261107T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A716Fv@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Ferdi est un artiste saxophoniste\, figure montante de la scè
@@ -1938,7 +1546,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 JOSMAN
 DTSTART:20261107T190000Z
 DTEND:20261107T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7aUut@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:NONSTOP PRODUCTIONS & BOSS TOUR présententJOSMANDPC TourJosma
@@ -1957,7 +1565,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 COCHONS D'INDE
 DTSTART:20261107T193000Z
 DTEND:20261107T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7ueO3@agenda-lyon
 CATEGORIES:Théâtre
 DESCRIPTION:Cochons d’IndeLa pièce de Sébastien Thiéry « Cochons d
@@ -1976,7 +1584,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 AIRB'N BOOM !
 DTSTART:20261107T193000Z
 DTEND:20261107T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7C8G8@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:Suite à l’explosion de l’appartement où il se trouve\, u
@@ -1996,7 +1604,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 C'ETAIT QUAND LA DERNIERE FOIS ?
 DTSTART:20261107T200000Z
 DTEND:20261107T223000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7CFjZ@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:De : Emmanuel Robert-EspalieuAvec : Romy Chenelat et Yohan Gen
@@ -2015,7 +1623,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 FRANCOIS GUEDON
 DTSTART:20261107T201500Z
 DTEND:20261107T224500Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7G8GM@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:ESPACE GERSON PRESENTE : FRANCOIS GUEDONAprès son spectacle L
@@ -2034,7 +1642,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 COMEDY CLUB
 DTSTART:20261107T210000Z
 DTEND:20261107T233000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uzog@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
@@ -2044,16 +1652,16 @@ DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
  e de la vie quotidienne\, ou les réflexions profondes habilement déguis
  ées en punchlines\, il y en aura pour tous les goûts et nous vous…\n\n
  🎟 Billetterie : https://www.ticketmaster.fr/fr/manifestation/comedy-clu
- b-billet/idmanif/658274/idtier/18864121
+ b-billet/idmanif/658274/idseance/4378475
 LOCATION:LE COMPLEXE CAFE-THEATRE\, 7 RUE DES CAPUCINS -\, 69001\, Lyon
 URL:https://www.ticketmaster.fr/fr/manifestation/comedy-club-billet/idmani
- f/658274/idtier/18864121
+ f/658274/idseance/4378475
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎤 LE PETIT COIFFEUR
 DTSTART:20261108T160000Z
 DTEND:20261108T183000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7usx8@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:SAS THEATRE DE L'ODEON PRÉSENTE : LE PETIT COIFFEURUne pièce
@@ -2072,7 +1680,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 AMISTAT
 DTSTART:20261109T190000Z
 DTEND:20261109T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uZ1p@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:LE BAZAR PRÉSENTE : AMISTAT- Les mineurs de moins de 16 ans d
@@ -2091,7 +1699,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 UN SOIR AVEC PIERRE ARDITI
 DTSTART:20261109T193000Z
 DTEND:20261109T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7GA8N@agenda-lyon
 CATEGORIES:Théâtre
 DESCRIPTION:Une soirée exceptionnelle avec Pierre ArditiPour la première
@@ -2110,7 +1718,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 PLAVACE 5 ANS w. 8RUKI - ZED - TH
 DTSTART:20261110T173000Z
 DTEND:20261110T200000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A78JZI@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Plavace clôture l'enchainement de 3 dates anniversaire avec u
@@ -2129,7 +1737,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 CHICAGO BLUES FESTIVAL
 DTSTART:20261110T190000Z
 DTEND:20261110T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A78UuM@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:En partenariat avec le festival Jazz à VienneLine-up :Zac Har
@@ -2148,7 +1756,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 DAVID CASTELLO-LOPES
 DTSTART:20261110T190000Z
 DTEND:20261110T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7ayvd@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:J’ai failli appeler ce spectacle «?Le plaisir?». Et puis j
@@ -2166,7 +1774,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 THOMAS FERSEN
 DTSTART:20261110T193000Z
 DTEND:20261110T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7G7G4@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Radiant-Bellevue (L-R-21-3056/L-R-21-3896) présente en accord
@@ -2181,7 +1789,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 COMEDY CLUB
 DTSTART:20261110T193000Z
 DTEND:20261110T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uzfU@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
@@ -2200,7 +1808,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 EMBRASSE TA MERE
 DTSTART:20261110T193000Z
 DTEND:20261110T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7G-u-@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:ESPACE GERSON PRESENTE : EMBRASSE TA MEREAlors qu’elles pren
@@ -2219,7 +1827,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 LE PORTEUR D'HISTOIRE
 DTSTART:20261111T180000Z
 DTEND:20261111T203000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7u-4K@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:SAS THEATRE DE L'ODEON PRÉSENTE : LE PORTEUR D'HISTOIRE\n\n
@@ -2233,7 +1841,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 SCHUR
 DTSTART:20261111T190000Z
 DTEND:20261111T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7G0uM@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:ELDORADO\, EN ACCORD AVEC BASE PRODUCTIONS ET DISTORTION CONCE
@@ -2252,7 +1860,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 MALIK BENTALHA
 DTSTART:20261111T190000Z
 DTEND:20261111T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-rZ7SnyZ1A7Ab-P@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:LA PETITE MANHATTAN ET AKS PRÉSENTENT : MALIK BENTALHANOUVEAU
@@ -2266,7 +1874,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 COMEDY CLUB
 DTSTART:20261111T193000Z
 DTEND:20261111T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uzff@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
@@ -2276,16 +1884,16 @@ DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
  e de la vie quotidienne\, ou les réflexions profondes habilement déguis
  ées en punchlines\, il y en aura pour tous les goûts et nous vous…\n\n
  🎟 Billetterie : https://www.ticketmaster.fr/fr/manifestation/comedy-clu
- b-billet/idmanif/658274/idtier/18864121
+ b-billet/idmanif/658274/idseance/4378514
 LOCATION:LE COMPLEXE CAFE-THEATRE\, 7 RUE DES CAPUCINS -\, 69001\, Lyon
 URL:https://www.ticketmaster.fr/fr/manifestation/comedy-club-billet/idmani
- f/658274/idtier/18864121
+ f/658274/idseance/4378514
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎤 WILLIAM PILET
 DTSTART:20261111T193000Z
 DTEND:20261111T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7afZ9@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:Stand-up / humour « WILLIAM PILET » à ESPACE GERSON (Lyon).
@@ -2300,7 +1908,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 C'ETAIT QUAND LA DERNIERE FOIS ?
 DTSTART:20261111T200000Z
 DTEND:20261111T223000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7CFjv@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:De : Emmanuel Robert-EspalieuAvec : Romy Chenelat et Yohan Gen
@@ -2319,7 +1927,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 LE PORTEUR D'HISTOIRE
 DTSTART:20261112T180000Z
 DTEND:20261112T203000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7u-44@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:SAS THEATRE DE L'ODEON PRÉSENTE : LE PORTEUR D'HISTOIRE\n\n
@@ -2333,7 +1941,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 SNIPER
 DTSTART:20261112T190000Z
 DTEND:20261112T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-rZ7SnyZ1A77v-O@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Le concert de SNIPER\, initialement prévu le 30 janvier 2026 
@@ -2352,7 +1960,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 PIERRE DE MAERE
 DTSTART:20261112T190000Z
 DTEND:20261112T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7G-bJ@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:W Spectacle présentePIERRE DE MAEREC'est avec une certaine id
@@ -2371,7 +1979,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 SUPERSAGE   L'ORATRICE - SUPERSAGE   L'ORATRICE   OPEN MIC
 DTSTART:20261112T190000Z
 DTEND:20261112T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7ufPI@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:LES ABATTOIRS PRESENTENT : SUPERSAGE L-ORATRICE OPEN MICPour c
@@ -2391,7 +1999,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 COMEDY CLUB
 DTSTART:20261112T193000Z
 DTEND:20261112T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uzoM@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
@@ -2401,16 +2009,16 @@ DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
  e de la vie quotidienne\, ou les réflexions profondes habilement déguis
  ées en punchlines\, il y en aura pour tous les goûts et nous vous…\n\n
  🎟 Billetterie : https://www.ticketmaster.fr/fr/manifestation/comedy-clu
- b-billet/idmanif/658274/idtier/18864121
+ b-billet/idmanif/658274/idseance/4378477
 LOCATION:LE COMPLEXE CAFE-THEATRE\, 7 RUE DES CAPUCINS -\, 69001\, Lyon
 URL:https://www.ticketmaster.fr/fr/manifestation/comedy-club-billet/idmani
- f/658274/idtier/18864121
+ f/658274/idseance/4378477
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎤 WILLIAM PILET
 DTSTART:20261112T193000Z
 DTEND:20261112T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7afZb@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:Stand-up / humour « WILLIAM PILET » à ESPACE GERSON (Lyon).
@@ -2425,7 +2033,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 C'ETAIT QUAND LA DERNIERE FOIS ?
 DTSTART:20261112T200000Z
 DTEND:20261112T223000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7CFje@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:De : Emmanuel Robert-EspalieuAvec : Romy Chenelat et Yohan Gen
@@ -2444,7 +2052,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 LE PORTEUR D'HISTOIRE
 DTSTART:20261113T180000Z
 DTEND:20261113T203000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7u-4p@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:SAS THEATRE DE L'ODEON PRÉSENTE : LE PORTEUR D'HISTOIRE\n\n
@@ -2458,7 +2066,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 AJNA
 DTSTART:20261113T190000Z
 DTEND:20261113T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7ubZd@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Après une marquise complète en quelques heures en janvier 20
@@ -2476,7 +2084,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 BENABAR
 DTSTART:20261113T193000Z
 DTEND:20261113T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7FVAk@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Concert « BENABAR » à RADIANT - BELLEVUE (Caluire Et Cuire)
@@ -2491,7 +2099,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 WILLIAM PILET
 DTSTART:20261113T193000Z
 DTEND:20261113T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7afZ_@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:Stand-up / humour « WILLIAM PILET » à ESPACE GERSON (Lyon).
@@ -2506,7 +2114,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 NUIT D'IVRESSE
 DTSTART:20261113T193000Z
 DTEND:20261113T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-rZ7SnyZ1A7AI7x@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:Jacques Belin\, un animateur de télévision imbu de lui-même
@@ -2525,7 +2133,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 C'ETAIT QUAND LA DERNIERE FOIS ?
 DTSTART:20261113T200000Z
 DTEND:20261113T223000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7CFjd@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:De : Emmanuel Robert-EspalieuAvec : Romy Chenelat et Yohan Gen
@@ -2544,7 +2152,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 COMEDY CLUB
 DTSTART:20261113T210000Z
 DTEND:20261113T233000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uzoz@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
@@ -2554,16 +2162,16 @@ DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
  e de la vie quotidienne\, ou les réflexions profondes habilement déguis
  ées en punchlines\, il y en aura pour tous les goûts et nous vous…\n\n
  🎟 Billetterie : https://www.ticketmaster.fr/fr/manifestation/comedy-clu
- b-billet/idmanif/658274/idtier/18864121
+ b-billet/idmanif/658274/idseance/4378478
 LOCATION:LE COMPLEXE CAFE-THEATRE\, 7 RUE DES CAPUCINS -\, 69001\, Lyon
 URL:https://www.ticketmaster.fr/fr/manifestation/comedy-club-billet/idmani
- f/658274/idtier/18864121
+ f/658274/idseance/4378478
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎤 TELLE EST LA QUESTION
 DTSTART:20261114T160000Z
 DTEND:20261114T183000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7usxF@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:SAS THEATRE DE L'ODEON PRÉSENTE : TELLE EST LA QUESTIONGenre 
@@ -2582,7 +2190,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 BOY HARSHER   Guests
 DTSTART:20261114T173000Z
 DTEND:20261114T200000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uMxk@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Depuis leur formation en 2014\, Jae Matthews et Augustus Mulle
@@ -2601,7 +2209,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 LE GRAND SACRIPANT
 DTSTART:20261114T174500Z
 DTEND:20261114T201500Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7udFZ@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:ESPACEGERSON PRESENTE : LE GRAND SACRIPANT“Et si on prenait 
@@ -2620,7 +2228,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 ANNEKE VAN GIERSBERGEN & BAND
 DTSTART:20261114T180000Z
 DTEND:20261114T203000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7G7eb@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:SOUNDS LIKE HELL PRODUCTIONS\, EN ACCORD AVEC GARMONBOZIA\, PR
@@ -2640,7 +2248,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 LE PORTEUR D'HISTOIRE
 DTSTART:20261114T180000Z
 DTEND:20261114T203000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7u-4b@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:SAS THEATRE DE L'ODEON PRÉSENTE : LE PORTEUR D'HISTOIRE\n\n
@@ -2654,7 +2262,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 LA TEAM GOLDMAN
 DTSTART:20261114T190000Z
 DTEND:20261114T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-rZ7SnyZ1A77NCK@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Si Jean-Jacques Goldman a quitté la scène\, sa musique est t
@@ -2673,7 +2281,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 ANNE ROUMANOFF
 DTSTART:20261114T193000Z
 DTEND:20261114T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uMq4@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:Anne Roumanoff L'âge Libre Puisque le monde déraille\, autan
@@ -2690,7 +2298,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 LE DINER DE CONS
 DTSTART:20261114T193000Z
 DTEND:20261114T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7F-8g@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:Chaque mercredi\, Pierre Brochant et ses amis organisent un d
@@ -2710,7 +2318,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 C'ETAIT QUAND LA DERNIERE FOIS ?
 DTSTART:20261114T200000Z
 DTEND:20261114T223000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7CFj3@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:De : Emmanuel Robert-EspalieuAvec : Romy Chenelat et Yohan Gen
@@ -2729,7 +2337,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 WILLIAM PILET
 DTSTART:20261114T201500Z
 DTEND:20261114T224500Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7afZO@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:Stand-up / humour « WILLIAM PILET » à ESPACE GERSON (Lyon).
@@ -2744,7 +2352,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 COMEDY CLUB
 DTSTART:20261114T210000Z
 DTEND:20261114T233000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uzoy@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
@@ -2754,16 +2362,16 @@ DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
  e de la vie quotidienne\, ou les réflexions profondes habilement déguis
  ées en punchlines\, il y en aura pour tous les goûts et nous vous…\n\n
  🎟 Billetterie : https://www.ticketmaster.fr/fr/manifestation/comedy-clu
- b-billet/idmanif/658274/idtier/18864121
+ b-billet/idmanif/658274/idseance/4378479
 LOCATION:LE COMPLEXE CAFE-THEATRE\, 7 RUE DES CAPUCINS -\, 69001\, Lyon
 URL:https://www.ticketmaster.fr/fr/manifestation/comedy-club-billet/idmani
- f/658274/idtier/18864121
+ f/658274/idseance/4378479
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎤 L'ARNAQUEUSE
 DTSTART:20261115T160000Z
 DTEND:20261115T183000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-rZ7SnyZ1A77xvd@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:COEUR DE SCENE PRODUCTIONS PRÉSENTE : L'ARNAQUEUSE\n\n🎟 Bi
@@ -2777,7 +2385,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 STRANGELOVE
 DTSTART:20261115T170000Z
 DTEND:20261115T193000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A71bAU@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:RICHARD WALTER PRODUCTIONS PRESENTE : STRANGELOVE-The Depeche 
@@ -2796,7 +2404,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 LAURENT GERRA
 DTSTART:20261116T190000Z
 DTEND:20261116T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7axaO@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:ELDORADO\, EN ACCORD AVEC GILBERT COULLIER PRODUCTIONS ET ELGE
@@ -2811,7 +2419,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 EMBRASSE TA MERE
 DTSTART:20261117T193000Z
 DTEND:20261117T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7G-ux@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:ESPACE GERSON PRESENTE : EMBRASSE TA MEREAlors qu’elles pren
@@ -2830,7 +2438,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 LE PORTEUR D'HISTOIRE
 DTSTART:20261118T180000Z
 DTEND:20261118T203000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7u-4_@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:SAS THEATRE DE L'ODEON PRÉSENTE : LE PORTEUR D'HISTOIRE\n\n
@@ -2841,10 +2449,29 @@ URL:https://www.ticketmaster.fr/fr/manifestation/le-porteur-d-histoire-bil
  let/idmanif/663770/idtier/18864121
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎵 LIVE ECHO : MARCUS GAD
+DTSTART:20261118T190000Z
+DTEND:20261118T213000Z
+DTSTAMP:20261019T102600Z
+UID:tm-ZkyMmBwZ1A7oZ4b@agenda-lyon
+CATEGORIES:Concert
+DESCRIPTION:Marcus Gad\, en tournée à l'automne !2026 signe le grand ret
+ our de Marcus Gad avec un nouvel album et un nouveau show ! C'est accompag
+ né de ses musiciens « Tribe »\, que le chanteur originaire de Nouvelle 
+ Calédonie sillonnera les salles de l'hexagone pour défendre son nouveau 
+ projet.Artiste inspiré et inspirant\, il incarne plus que jamais le souff
+ le nouveau d'une musique consciente et universelle.\n\n🎟 Billetterie : 
+ https://www.ticketmaster.fr/fr/manifestation/live-echo-marcus-gad-billet/i
+ dmanif/675725/idseance/4440558
+LOCATION:LE TRANSBORDEUR\, 3 BD STALINGRAD\, 69100\, Villeurbanne
+URL:https://www.ticketmaster.fr/fr/manifestation/live-echo-marcus-gad-bill
+ et/idmanif/675725/idseance/4440558
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎤 MARINE LEONARDI
 DTSTART:20261118T190000Z
 DTEND:20261118T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A71KCo@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:Marine LeonardiMauvaise graineNe vous inquiétez pas\, son mar
@@ -2862,7 +2489,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 COMEDY CLUB
 DTSTART:20261118T193000Z
 DTEND:20261118T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uzf4@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
@@ -2872,16 +2499,16 @@ DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
  e de la vie quotidienne\, ou les réflexions profondes habilement déguis
  ées en punchlines\, il y en aura pour tous les goûts et nous vous…\n\n
  🎟 Billetterie : https://www.ticketmaster.fr/fr/manifestation/comedy-clu
- b-billet/idmanif/658274/idtier/18864121
+ b-billet/idmanif/658274/idseance/4378515
 LOCATION:LE COMPLEXE CAFE-THEATRE\, 7 RUE DES CAPUCINS -\, 69001\, Lyon
 URL:https://www.ticketmaster.fr/fr/manifestation/comedy-club-billet/idmani
- f/658274/idtier/18864121
+ f/658274/idseance/4378515
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎤 MANUEL PRATT
 DTSTART:20261118T193000Z
 DTEND:20261118T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7G7ek@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:ESPACE GERSON PRESENTE : MANUEL PRATT« Révélation Humour st
@@ -2900,7 +2527,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 BARBARA\, DE THEATRE EN THEATRE
 DTSTART:20261118T200000Z
 DTEND:20261118T223000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7CAGs@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:- Bord de scène le 18/11 à l’issue de la représentation -
@@ -2919,7 +2546,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 LE PORTEUR D'HISTOIRE
 DTSTART:20261119T180000Z
 DTEND:20261119T203000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7u-4O@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:SAS THEATRE DE L'ODEON PRÉSENTE : LE PORTEUR D'HISTOIRE\n\n
@@ -2933,7 +2560,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 GOGO PENGUIN
 DTSTART:20261119T190000Z
 DTEND:20261119T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7GP8O@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Transmission présente\, en accord avec Anteprima ProductionsG
@@ -2952,7 +2579,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 MYRA
 DTSTART:20261119T190000Z
 DTEND:20261119T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7C8-M@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:- Les mineurs de moins de 16 ans doivent obligatoirement être
@@ -2971,7 +2598,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 L'HERITAGE GOLDMAN
 DTSTART:20261119T190000Z
 DTEND:20261119T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-rZ7SnyZ1A7ASav@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Richard Walter productions (licence n°R-2022006816 - R2022008
@@ -2990,7 +2617,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 DANIEL MORIN
 DTSTART:20261119T190000Z
 DTEND:20261119T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7aej9@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:Que ce soit dans le 5-7 ou dans le 11h midi 30\, Daniel Morin 
@@ -3008,7 +2635,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 NATASHA ST-PIER
 DTSTART:20261119T193000Z
 DTEND:20261119T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uxr7@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Natasha St-PierSur les pas de Sainte Thérèse de LisieuxAprè
@@ -3027,7 +2654,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 MANUEL PRATT
 DTSTART:20261119T193000Z
 DTEND:20261119T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7G7e6@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:ESPACE GERSON PRESENTE : MANUEL PRATT« Révélation Humour st
@@ -3046,7 +2673,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 BARBARA\, DE THEATRE EN THEATRE
 DTSTART:20261119T200000Z
 DTEND:20261119T223000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7CAGw@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:- Bord de scène le 18/11 à l’issue de la représentation -
@@ -3065,7 +2692,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 LE PORTEUR D'HISTOIRE
 DTSTART:20261120T180000Z
 DTEND:20261120T203000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7u-4-@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:SAS THEATRE DE L'ODEON PRÉSENTE : LE PORTEUR D'HISTOIRE\n\n
@@ -3079,7 +2706,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 IBEYI
 DTSTART:20261120T190000Z
 DTEND:20261120T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uebY@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Concert « IBEYI » à LE TRANSBORDEUR (Villeurbanne). Genre :
@@ -3094,7 +2721,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 SPIDER ZED
 DTSTART:20261120T190000Z
 DTEND:20261120T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7GI_3@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Pas très bavard mais rien à redire. Les mineurs sont autoris
@@ -3110,7 +2737,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 MPL
 DTSTART:20261120T190000Z
 DTEND:20261120T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A71KaE@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:LES ABATTOIRS PRESENTENT : MPLLa déferlante MPL se déploie 
@@ -3130,7 +2757,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 MELODIE FONTAINE
 DTSTART:20261120T190000Z
 DTEND:20261120T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7FOqd@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:Chroniqueuse dans La Bande Originale sur France Inter.Qui n’
@@ -3148,7 +2775,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 MANUEL PRATT
 DTSTART:20261120T193000Z
 DTEND:20261120T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7G7eF@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:ESPACE GERSON PRESENTE : MANUEL PRATT« Révélation Humour st
@@ -3167,7 +2794,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 UNE HEURE A T'ATTENDRE
 DTSTART:20261120T193000Z
 DTEND:20261120T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7ueOp@agenda-lyon
 CATEGORIES:Théâtre
 DESCRIPTION:UNE HEURE À T’ATTENDRELa pièce de Sylvain Meyniac « Une h
@@ -3186,7 +2813,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 LES PEINTRES AU CHARBON
 DTSTART:20261120T193000Z
 DTEND:20261120T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uMqO@agenda-lyon
 CATEGORIES:Théâtre
 DESCRIPTION:Les peintres au charbon Adrien Popineau - Cie Les Messagers Un
@@ -3205,7 +2832,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 TOUT CONTRE LA TERRE
 DTSTART:20261120T193000Z
 DTEND:20261120T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A78x4K@agenda-lyon
 CATEGORIES:Théâtre
 DESCRIPTION:Durée : 1h10Dès 12 ansTexte de Rémi Couturier Inspiré de 
@@ -3221,29 +2848,10 @@ URL:https://www.ticketmaster.fr/fr/manifestation/tout-contre-la-terre-bill
  et/idmanif/672662/idseance/4422553
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎤 COMEDY CLUB
-DTSTART:20261120T210000Z
-DTEND:20261120T233000Z
-DTSTAMP:20261012T123926Z
-UID:tm-ZkyMmBwZ1A7uz3e@agenda-lyon
-CATEGORIES:Stand-up / humour
-DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
-  explosive !Le Complexe café-théâtre a minutieusement sélectionné pou
- r vous une équipe d’artistes qui maîtrisent l’art du stand-up comme 
- personne !Que vous aimiez l’humour décalé\, l’observation sarcastiqu
- e de la vie quotidienne\, ou les réflexions profondes habilement déguis
- ées en punchlines\, il y en aura pour tous les goûts et nous vous…\n\n
- 🎟 Billetterie : https://www.ticketmaster.fr/fr/manifestation/comedy-clu
- b-billet/idmanif/658274/idtier/18864121
-LOCATION:LE COMPLEXE CAFE-THEATRE\, 7 RUE DES CAPUCINS -\, 69001\, Lyon
-URL:https://www.ticketmaster.fr/fr/manifestation/comedy-club-billet/idmani
- f/658274/idtier/18864121
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎤 LE GRAND SACRIPANT
 DTSTART:20261121T174500Z
 DTEND:20261121T201500Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7udFv@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:ESPACEGERSON PRESENTE : LE GRAND SACRIPANT“Et si on prenait 
@@ -3262,7 +2870,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 LE PORTEUR D'HISTOIRE
 DTSTART:20261121T180000Z
 DTEND:20261121T203000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7u-4x@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:SAS THEATRE DE L'ODEON PRÉSENTE : LE PORTEUR D'HISTOIRE\n\n
@@ -3276,7 +2884,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 BAMBY
 DTSTART:20261121T190000Z
 DTEND:20261121T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7u-39@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Les mineurs sont autorisés et les mineurs de moins de 16 ans 
@@ -3292,29 +2900,10 @@ URL:https://www.ticketmaster.fr/fr/manifestation/bamby-billet/idmanif/6637
  63/idtier/18864121
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎤 COMEDY CLUB
-DTSTART:20261121T190000Z
-DTEND:20261121T213000Z
-DTSTAMP:20261012T123926Z
-UID:tm-ZkyMmBwZ1A7uz37@agenda-lyon
-CATEGORIES:Stand-up / humour
-DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
-  explosive !Le Complexe café-théâtre a minutieusement sélectionné pou
- r vous une équipe d’artistes qui maîtrisent l’art du stand-up comme 
- personne !Que vous aimiez l’humour décalé\, l’observation sarcastiqu
- e de la vie quotidienne\, ou les réflexions profondes habilement déguis
- ées en punchlines\, il y en aura pour tous les goûts et nous vous…\n\n
- 🎟 Billetterie : https://www.ticketmaster.fr/fr/manifestation/comedy-clu
- b-billet/idmanif/658274/idtier/18864121
-LOCATION:LE COMPLEXE CAFE-THEATRE\, 7 RUE DES CAPUCINS -\, 69001\, Lyon
-URL:https://www.ticketmaster.fr/fr/manifestation/comedy-club-billet/idmani
- f/658274/idtier/18864121
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎤 NOAM SINSEAU
 DTSTART:20261121T190000Z
 DTEND:20261121T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7ao8x@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:TCHOLELE PRODUCTION PRESENTE : NOAM SINSEAU\n\n🎟 Billetteri
@@ -3328,7 +2917,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 LES PEINTRES AU CHARBON
 DTSTART:20261121T193000Z
 DTEND:20261121T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7ueO_@agenda-lyon
 CATEGORIES:Théâtre
 DESCRIPTION:LES PEINTRES AU CHARBONTexte écrit par Lee Hall et mis en sc
@@ -3347,7 +2936,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 BARBARA\, DE THEATRE EN THEATRE
 DTSTART:20261121T200000Z
 DTEND:20261121T223000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7CAGS@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:- Bord de scène le 18/11 à l’issue de la représentation -
@@ -3366,7 +2955,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 MANUEL PRATT
 DTSTART:20261121T201500Z
 DTEND:20261121T224500Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7G7ea@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:ESPACE GERSON PRESENTE : MANUEL PRATT« Révélation Humour st
@@ -3382,10 +2971,29 @@ URL:https://www.ticketmaster.fr/fr/manifestation/manuel-pratt-billet/idman
  if/653927/idtier/18864121
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎤 COMEDY CLUB
+DTSTART:20261121T210000Z
+DTEND:20261121T233000Z
+DTSTAMP:20261019T102600Z
+UID:tm-ZkyMmBwZ1A7uz3d@agenda-lyon
+CATEGORIES:Stand-up / humour
+DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
+  explosive !Le Complexe café-théâtre a minutieusement sélectionné pou
+ r vous une équipe d’artistes qui maîtrisent l’art du stand-up comme 
+ personne !Que vous aimiez l’humour décalé\, l’observation sarcastiqu
+ e de la vie quotidienne\, ou les réflexions profondes habilement déguis
+ ées en punchlines\, il y en aura pour tous les goûts et nous vous…\n\n
+ 🎟 Billetterie : https://www.ticketmaster.fr/fr/manifestation/comedy-clu
+ b-billet/idmanif/658274/idseance/4378483
+LOCATION:LE COMPLEXE CAFE-THEATRE\, 7 RUE DES CAPUCINS -\, 69001\, Lyon
+URL:https://www.ticketmaster.fr/fr/manifestation/comedy-club-billet/idmani
+ f/658274/idseance/4378483
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎤 LE PETIT COIFFEUR
 DTSTART:20261122T160000Z
 DTEND:20261122T183000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7usxo@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:SAS THEATRE DE L'ODEON PRÉSENTE : LE PETIT COIFFEURUne pièce
@@ -3404,7 +3012,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 JEREMY DUTCHER - JEREMY DUTCHER - VAULX EN FRANCOPHONIE
 DTSTART:20261124T190000Z
 DTEND:20261124T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7C74p@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Jérémy Dutcher est un ténor\, compositeur et ethnomusicolog
@@ -3423,7 +3031,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 TRISTAN PIERRE - TRISTAN PIERRE dans MELANJOLIE
 DTSTART:20261124T190000Z
 DTEND:20261124T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uvQ6@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:LE COMPLEXE PRESENTE : TRISTAN PIERRE DANS MELANJOLIE“Mélan
@@ -3442,7 +3050,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 LAURA FERRE
 DTSTART:20261124T193000Z
 DTEND:20261124T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7k3Od@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Le spectacle initialement prévu le 23 avril 2026 est reporté
@@ -3461,7 +3069,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 3 - L'IMPRO FFF
 DTSTART:20261124T193000Z
 DTEND:20261124T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7GbvN@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:Tous les derniers mardis de chaque moisConçue par Cécile Gir
@@ -3480,7 +3088,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 LE PORTEUR D'HISTOIRE
 DTSTART:20261125T180000Z
 DTEND:20261125T203000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7u-4N@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:SAS THEATRE DE L'ODEON PRÉSENTE : LE PORTEUR D'HISTOIRE\n\n
@@ -3494,7 +3102,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 ILLUSTRE - AMALIA - VAULX EN FRANCOPHONIE : ILLUSTRE - AMALIA
 DTSTART:20261125T190000Z
 DTEND:20261125T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7C74O@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:En ouverture de cette soirée\, Maldonne distille un rap intra
@@ -3510,29 +3118,10 @@ URL:https://www.ticketmaster.fr/fr/manifestation/illustre-amalia-billet/id
  manif/667711/idtier/18864121
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎤 COMEDY CLUB
-DTSTART:20261125T193000Z
-DTEND:20261125T220000Z
-DTSTAMP:20261012T123926Z
-UID:tm-ZkyMmBwZ1A7uzfp@agenda-lyon
-CATEGORIES:Stand-up / humour
-DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
-  explosive !Le Complexe café-théâtre a minutieusement sélectionné pou
- r vous une équipe d’artistes qui maîtrisent l’art du stand-up comme 
- personne !Que vous aimiez l’humour décalé\, l’observation sarcastiqu
- e de la vie quotidienne\, ou les réflexions profondes habilement déguis
- ées en punchlines\, il y en aura pour tous les goûts et nous vous…\n\n
- 🎟 Billetterie : https://www.ticketmaster.fr/fr/manifestation/comedy-clu
- b-billet/idmanif/658274/idtier/18864121
-LOCATION:LE COMPLEXE CAFE-THEATRE\, 7 RUE DES CAPUCINS -\, 69001\, Lyon
-URL:https://www.ticketmaster.fr/fr/manifestation/comedy-club-billet/idmani
- f/658274/idtier/18864121
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎤 BARBARA\, DE THEATRE EN THEATRE
 DTSTART:20261125T200000Z
 DTEND:20261125T223000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7CAGV@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:- Bord de scène le 18/11 à l’issue de la représentation -
@@ -3551,7 +3140,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 LE PORTEUR D'HISTOIRE
 DTSTART:20261126T180000Z
 DTEND:20261126T203000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7u-40@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:SAS THEATRE DE L'ODEON PRÉSENTE : LE PORTEUR D'HISTOIRE\n\n
@@ -3565,7 +3154,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 BEN PLG
 DTSTART:20261126T190000Z
 DTEND:20261126T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uoaN@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:BEN plg revient en concert dans ta ville\, bisous.\n\n🎟 Bil
@@ -3579,7 +3168,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 RENAN LUCE
 DTSTART:20261126T190000Z
 DTEND:20261126T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7a_vE@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Radiant-Bellevue (L-R-21-3056/L-R-21-3896) présente en accord
@@ -3593,7 +3182,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 P.R2B - YSE - P.R2B / YSE  - VAULX EN FRANCOPHONIE
 DTSTART:20261126T190000Z
 DTEND:20261126T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7C74-@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:P.R2B a marqué la scène française avec l'EP Des rêves\, pu
@@ -3611,7 +3200,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 BARBARA\, DE THEATRE EN THEATRE
 DTSTART:20261126T200000Z
 DTEND:20261126T223000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7CAGg@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:- Bord de scène le 18/11 à l’issue de la représentation -
@@ -3630,7 +3219,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 KID FRANCESCOLI
 DTSTART:20261127T190000Z
 DTEND:20261127T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7Gk-p@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:A GAUCHE DE LA LUNE (2-L-R-25-3143 / 3-L-R-25-3169) PRESENTEKI
@@ -3644,7 +3233,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 LISA PARIENTE
 DTSTART:20261127T190000Z
 DTEND:20261127T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uP80@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:LISA PARIENTE Les mineurs sont autorisés et les mineurs de mo
@@ -3660,7 +3249,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 GREN SEME - GREN SEME VAULX EN FRANCOPHONIE
 DTSTART:20261127T190000Z
 DTEND:20261127T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7C74x@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Grèn Sémé est un quintet de Maloya évolutif. Entre poésie
@@ -3679,7 +3268,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 FOLIE'S
 DTSTART:20261127T190000Z
 DTEND:20261127T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A71KaI@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:LES ABATTOIRS PRESENTENT : FOLIE S Folie’s est un artiste à
@@ -3699,7 +3288,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 UNE HISTOIRE DE FRANCE
 DTSTART:20261127T190000Z
 DTEND:20261127T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7ueO-@agenda-lyon
 CATEGORIES:Théâtre
 DESCRIPTION:Une Histoire de France Dans cette création originale à retro
@@ -3718,7 +3307,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 FABRICE EBOUE
 DTSTART:20261127T193000Z
 DTEND:20261127T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7161a@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:CHEYENNE PRODUCTIONS ET CHEZ FELIX PRESENTENT : FABRICE ÉBOU
@@ -3737,7 +3326,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 BARBARA\, DE THEATRE EN THEATRE
 DTSTART:20261127T200000Z
 DTEND:20261127T223000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7CAGU@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:- Bord de scène le 18/11 à l’issue de la représentation -
@@ -3756,7 +3345,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 COMEDY CLUB
 DTSTART:20261127T210000Z
 DTEND:20261127T233000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uz3k@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
@@ -3766,16 +3355,16 @@ DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
  e de la vie quotidienne\, ou les réflexions profondes habilement déguis
  ées en punchlines\, il y en aura pour tous les goûts et nous vous…\n\n
  🎟 Billetterie : https://www.ticketmaster.fr/fr/manifestation/comedy-clu
- b-billet/idmanif/658274/idtier/18864121
+ b-billet/idmanif/658274/idseance/4378486
 LOCATION:LE COMPLEXE CAFE-THEATRE\, 7 RUE DES CAPUCINS -\, 69001\, Lyon
 URL:https://www.ticketmaster.fr/fr/manifestation/comedy-club-billet/idmani
- f/658274/idtier/18864121
+ f/658274/idseance/4378486
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎤 TELLE EST LA QUESTION
 DTSTART:20261128T160000Z
 DTEND:20261128T183000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7usxa@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:SAS THEATRE DE L'ODEON PRÉSENTE : TELLE EST LA QUESTIONGenre 
@@ -3794,7 +3383,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 LE PORTEUR D'HISTOIRE
 DTSTART:20261128T180000Z
 DTEND:20261128T203000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7u-4P@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:SAS THEATRE DE L'ODEON PRÉSENTE : LE PORTEUR D'HISTOIRE\n\n
@@ -3808,7 +3397,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 LENAÏG
 DTSTART:20261128T190000Z
 DTEND:20261128T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7G-vk@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Après avoir électrisé les réseaux avec ses premiers titres
@@ -3827,7 +3416,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 CALEMA
 DTSTART:20261128T190000Z
 DTEND:20261128T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7G_Zw@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Véritables ponts culturels entre les peuples unis par la lang
@@ -3846,7 +3435,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 CHARLIE WINSTON - CHARLIE WINSTON - VAULX EN FRANCOPHONIE
 DTSTART:20261128T190000Z
 DTEND:20261128T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7C74N@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Après 17 ans de carrière et des tournées électrisantes à 
@@ -3865,7 +3454,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 FABRICE EBOUE
 DTSTART:20261128T193000Z
 DTEND:20261128T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A71618@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:CHEYENNE PRODUCTIONS ET CHEZ FELIX PRESENTENT : FABRICE ÉBOU
@@ -3884,7 +3473,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 L'EXPERIENCE THEATRALE
 DTSTART:20261128T193000Z
 DTEND:20261128T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7ueOx@agenda-lyon
 CATEGORIES:Théâtre
 DESCRIPTION:L’expérience ThéâtraleDécouvrez la nouvelle comédie de 
@@ -3903,7 +3492,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 KEN
 DTSTART:20261128T193000Z
 DTEND:20261128T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7C8G_@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:Il s’appelle Ken\, et alors ? Elle se fait bien appeler Augu
@@ -3923,7 +3512,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 BARBARA\, DE THEATRE EN THEATRE
 DTSTART:20261128T200000Z
 DTEND:20261128T223000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7CAGM@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:- Bord de scène le 18/11 à l’issue de la représentation -
@@ -3942,7 +3531,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 COMEDY CLUB
 DTSTART:20261128T210000Z
 DTEND:20261128T233000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uz36@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
@@ -3952,17 +3541,17 @@ DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
  e de la vie quotidienne\, ou les réflexions profondes habilement déguis
  ées en punchlines\, il y en aura pour tous les goûts et nous vous…\n\n
  🎟 Billetterie : https://www.ticketmaster.fr/fr/manifestation/comedy-clu
- b-billet/idmanif/658274/idtier/18864121
+ b-billet/idmanif/658274/idseance/4378487
 LOCATION:LE COMPLEXE CAFE-THEATRE\, 7 RUE DES CAPUCINS -\, 69001\, Lyon
 URL:https://www.ticketmaster.fr/fr/manifestation/comedy-club-billet/idmani
- f/658274/idtier/18864121
+ f/658274/idseance/4378487
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎭 MATCH D'IMPRO THEATRALE LYON VS BELGIQUE - MATCH D'IMPROVISAT
  ION THEATRALE
 DTSTART:20261129T160000Z
 DTEND:20261129T183000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7ukvw@agenda-lyon
 CATEGORIES:Théâtre
 DESCRIPTION:LIGUE D'IMPROVISATION LYONNAISE PRÉSENTE :LILY VS LA BELGIQUE
@@ -3981,7 +3570,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 MARINE LEONARDI
 DTSTART:20261201T190000Z
 DTEND:20261201T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7avF3@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:Marine LeonardiMauvaise graineNe vous inquiétez pas\, son mar
@@ -3999,7 +3588,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 EMBRASSE TA MERE
 DTSTART:20261201T193000Z
 DTEND:20261201T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7G-uN@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:ESPACE GERSON PRESENTE : EMBRASSE TA MEREAlors qu’elles pren
@@ -4018,7 +3607,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 LE PORTEUR D'HISTOIRE
 DTSTART:20261202T180000Z
 DTEND:20261202T203000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7u-4J@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:SAS THEATRE DE L'ODEON PRÉSENTE : LE PORTEUR D'HISTOIRE\n\n
@@ -4032,7 +3621,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 SLIFT
 DTSTART:20261202T190000Z
 DTEND:20261202T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7GbCa@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:La SAS (L-R-21-3557/L-R-21-3559) en accord avec Radical Produc
@@ -4051,7 +3640,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 MARINE LEONARDI
 DTSTART:20261202T190000Z
 DTEND:20261202T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7kFja@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:Marine LeonardiMauvaise graineNe vous inquiétez pas\, son mar
@@ -4069,7 +3658,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 LA GRANDE SOPHIE
 DTSTART:20261202T193000Z
 DTEND:20261202T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7Fk0O@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Concert « LA GRANDE SOPHIE » à RADIANT - BELLEVUE (Caluire 
@@ -4085,7 +3674,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 TU VOEUX OU TU VOEUX PAS
 DTSTART:20261202T193000Z
 DTEND:20261202T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A78Euf@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:A Noël\, les vœux\, c’est comme les chocolats\, il ne faut
@@ -4104,7 +3693,7 @@ SUMMARY:🎤 DERNIER REVEILLON AVANT L'ANNEE - DERNIER REVEILLON AVANT L
  ’ANNEE PROCHAINE
 DTSTART:20261202T200000Z
 DTEND:20261202T223000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7CAGz@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:Genre : Comédie horrifiqueDurée : 1h25Texte : Compagnie du B
@@ -4123,7 +3712,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 LE PORTEUR D'HISTOIRE
 DTSTART:20261203T180000Z
 DTEND:20261203T203000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7u-4E@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:SAS THEATRE DE L'ODEON PRÉSENTE : LE PORTEUR D'HISTOIRE\n\n
@@ -4137,7 +3726,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 IMANY
 DTSTART:20261203T190000Z
 DTEND:20261203T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7ueOE@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:ImanyVoix singulière\, puissante et lumineuse\, Imany s’imp
@@ -4156,7 +3745,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 MARINE LEONARDI
 DTSTART:20261203T190000Z
 DTEND:20261203T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-rZ7SnyZ1A774Jf@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:Marine LeonardiMauvaise graineNe vous inquiétez pas\, son mar
@@ -4174,7 +3763,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 MAHE
 DTSTART:20261203T190000Z
 DTEND:20261203T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7GU8U@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:Mahé s’installeEt ça va faire du bruit.Mahé est l’humor
@@ -4193,7 +3782,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 TU VOEUX OU TU VOEUX PAS
 DTSTART:20261203T193000Z
 DTEND:20261203T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A78Eu4@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:A Noël\, les vœux\, c’est comme les chocolats\, il ne faut
@@ -4211,7 +3800,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 LA BAJON
 DTSTART:20261203T193000Z
 DTEND:20261203T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uMqP@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:La Bajon Zen Être humoriste aujourd’hui\, c’est comme enf
@@ -4229,7 +3818,7 @@ SUMMARY:🎤 DERNIER REVEILLON AVANT L'ANNEE - DERNIER REVEILLON AVANT L
  ’ANNEE PROCHAINE
 DTSTART:20261203T200000Z
 DTEND:20261203T223000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7CAGy@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:Genre : Comédie horrifiqueDurée : 1h25Texte : Compagnie du B
@@ -4248,7 +3837,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 LE PORTEUR D'HISTOIRE
 DTSTART:20261204T180000Z
 DTEND:20261204T203000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7u-4I@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:SAS THEATRE DE L'ODEON PRÉSENTE : LE PORTEUR D'HISTOIRE\n\n
@@ -4262,7 +3851,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 DISIZ
 DTSTART:20261204T190000Z
 DTEND:20261204T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7F-Pd@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Concert « DISIZ » à HALLE TONY GARNIER (Lyon). Genre : Rock
@@ -4277,7 +3866,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 GAROU 'SOLO' - GAROU
 DTSTART:20261204T193000Z
 DTEND:20261204T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-rZ7SnyZ1A7e7u-@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:RADIANT-BELLEVUE (L-R-21-3056/ L-R-21-3896) et Les 2 Belges Pr
@@ -4292,7 +3881,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 TU VOEUX OU TU VOEUX PAS
 DTSTART:20261204T193000Z
 DTEND:20261204T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A78Eup@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:A Noël\, les vœux\, c’est comme les chocolats\, il ne faut
@@ -4311,7 +3900,7 @@ SUMMARY:🎤 DERNIER REVEILLON AVANT L'ANNEE - DERNIER REVEILLON AVANT L
  ’ANNEE PROCHAINE
 DTSTART:20261204T200000Z
 DTEND:20261204T223000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7CAuZ@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:Genre : Comédie horrifiqueDurée : 1h25Texte : Compagnie du B
@@ -4330,7 +3919,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 COMEDY CLUB
 DTSTART:20261204T210000Z
 DTEND:20261204T233000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uz38@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
@@ -4340,16 +3929,16 @@ DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
  e de la vie quotidienne\, ou les réflexions profondes habilement déguis
  ées en punchlines\, il y en aura pour tous les goûts et nous vous…\n\n
  🎟 Billetterie : https://www.ticketmaster.fr/fr/manifestation/comedy-clu
- b-billet/idmanif/658274/idtier/18864121
+ b-billet/idmanif/658274/idseance/4378490
 LOCATION:LE COMPLEXE CAFE-THEATRE\, 7 RUE DES CAPUCINS -\, 69001\, Lyon
 URL:https://www.ticketmaster.fr/fr/manifestation/comedy-club-billet/idmani
- f/658274/idtier/18864121
+ f/658274/idseance/4378490
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎤 LE PORTEUR D'HISTOIRE
 DTSTART:20261205T180000Z
 DTEND:20261205T203000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7u-4t@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:SAS THEATRE DE L'ODEON PRÉSENTE : LE PORTEUR D'HISTOIRE\n\n
@@ -4363,7 +3952,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 55ASKY
 DTSTART:20261205T190000Z
 DTEND:20261205T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A78e0J@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Artiste émergent français\, 55ASKY développe une musique hy
@@ -4382,7 +3971,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 SEBASTIEN TELLIER
 DTSTART:20261205T190000Z
 DTEND:20261205T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7u-GK@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Multi-instrumentiste de talent\, Sébastien Tellier a exploré
@@ -4402,7 +3991,7 @@ SUMMARY:🎤 DERNIER REVEILLON AVANT L'ANNEE - DERNIER REVEILLON AVANT L
  ’ANNEE PROCHAINE
 DTSTART:20261205T200000Z
 DTEND:20261205T223000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7CAuv@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:Genre : Comédie horrifiqueDurée : 1h25Texte : Compagnie du B
@@ -4421,7 +4010,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 COMEDY CLUB
 DTSTART:20261205T210000Z
 DTEND:20261205T233000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uz3o@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
@@ -4431,16 +4020,16 @@ DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
  e de la vie quotidienne\, ou les réflexions profondes habilement déguis
  ées en punchlines\, il y en aura pour tous les goûts et nous vous…\n\n
  🎟 Billetterie : https://www.ticketmaster.fr/fr/manifestation/comedy-clu
- b-billet/idmanif/658274/idtier/18864121
+ b-billet/idmanif/658274/idseance/4378491
 LOCATION:LE COMPLEXE CAFE-THEATRE\, 7 RUE DES CAPUCINS -\, 69001\, Lyon
 URL:https://www.ticketmaster.fr/fr/manifestation/comedy-club-billet/idmani
- f/658274/idtier/18864121
+ f/658274/idseance/4378491
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎭 LA MISERABLE
 DTSTART:20261206T150000Z
 DTEND:20261206T173000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7ue-A@agenda-lyon
 CATEGORIES:Théâtre
 DESCRIPTION:La misérableJulie Depardieu interprète avec justesse et brio
@@ -4459,7 +4048,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 LE PETIT COIFFEUR
 DTSTART:20261206T160000Z
 DTEND:20261206T183000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7usx3@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:SAS THEATRE DE L'ODEON PRÉSENTE : LE PETIT COIFFEURUne pièce
@@ -4478,7 +4067,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 CORY WONG
 DTSTART:20261207T180000Z
 DTEND:20261207T203000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7Gz8g@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:GIANTSTEPS 75 PRÉSENTE : CORY WONGCory Wong est un guitariste
@@ -4497,7 +4086,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 COMEDY CLUB
 DTSTART:20261208T193000Z
 DTEND:20261208T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uz4Z@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
@@ -4516,7 +4105,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 LE PORTEUR D'HISTOIRE
 DTSTART:20261209T180000Z
 DTEND:20261209T203000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7u-4s@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:SAS THEATRE DE L'ODEON PRÉSENTE : LE PORTEUR D'HISTOIRE\n\n
@@ -4530,7 +4119,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 MINITEL !
 DTSTART:20261209T190000Z
 DTEND:20261209T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7upvy@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:RPO PRÉSENTE : MINITEL!Minitel est composé de Christophe Dub
@@ -4549,7 +4138,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 BENJAMIN BIOLAY
 DTSTART:20261209T190000Z
 DTEND:20261209T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7ue-k@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Benjamin BiolayBenjamin Biolay dévoile sur la scène du Radia
@@ -4568,7 +4157,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 HK - HK - “LE JOUR OÙ J’AI RENCONTRÉ BREL”
 DTSTART:20261209T193000Z
 DTEND:20261209T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A78Kby@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:HK “Le jour où j’ai rencontré Brel”FR - Chanson« Le 1
@@ -4584,29 +4173,10 @@ URL:https://www.ticketmaster.fr/fr/manifestation/hk-billet/idmanif/672183/
  idseance/4413639
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎤 COMEDY CLUB
-DTSTART:20261209T193000Z
-DTEND:20261209T220000Z
-DTSTAMP:20261012T123926Z
-UID:tm-ZkyMmBwZ1A7uzfb@agenda-lyon
-CATEGORIES:Stand-up / humour
-DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
-  explosive !Le Complexe café-théâtre a minutieusement sélectionné pou
- r vous une équipe d’artistes qui maîtrisent l’art du stand-up comme 
- personne !Que vous aimiez l’humour décalé\, l’observation sarcastiqu
- e de la vie quotidienne\, ou les réflexions profondes habilement déguis
- ées en punchlines\, il y en aura pour tous les goûts et nous vous…\n\n
- 🎟 Billetterie : https://www.ticketmaster.fr/fr/manifestation/comedy-clu
- b-billet/idmanif/658274/idtier/18864121
-LOCATION:LE COMPLEXE CAFE-THEATRE\, 7 RUE DES CAPUCINS -\, 69001\, Lyon
-URL:https://www.ticketmaster.fr/fr/manifestation/comedy-club-billet/idmani
- f/658274/idtier/18864121
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎤 KOSTIA
 DTSTART:20261209T193000Z
 DTEND:20261209T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7Gvqb@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:ESPACE GERSON PRESENTE : KOSTIA« T’es pas un Homme si t’a
@@ -4625,7 +4195,7 @@ SUMMARY:🎤 DERNIER REVEILLON AVANT L'ANNEE - DERNIER REVEILLON AVANT L
  ’ANNEE PROCHAINE
 DTSTART:20261209T200000Z
 DTEND:20261209T223000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7CAue@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:Genre : Comédie horrifiqueDurée : 1h25Texte : Compagnie du B
@@ -4644,7 +4214,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 LE PORTEUR D'HISTOIRE
 DTSTART:20261210T180000Z
 DTEND:20261210T203000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7u-4w@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:SAS THEATRE DE L'ODEON PRÉSENTE : LE PORTEUR D'HISTOIRE\n\n
@@ -4658,7 +4228,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 MOON WALKER
 DTSTART:20261210T183000Z
 DTEND:20261210T210000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7GxCp@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Moon Walker ajoute une nouvelle date française à sa tournée
@@ -4676,7 +4246,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 SAMUEL BAMBI
 DTSTART:20261210T190000Z
 DTEND:20261210T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7FMQ4@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:Stand-up / humour « SAMUEL BAMBI » à BOURSE DU TRAVAIL (Lyo
@@ -4691,7 +4261,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 COMEDY CLUB
 DTSTART:20261210T193000Z
 DTEND:20261210T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uz3K@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
@@ -4701,16 +4271,16 @@ DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
  e de la vie quotidienne\, ou les réflexions profondes habilement déguis
  ées en punchlines\, il y en aura pour tous les goûts et nous vous…\n\n
  🎟 Billetterie : https://www.ticketmaster.fr/fr/manifestation/comedy-clu
- b-billet/idmanif/658274/idtier/18864121
+ b-billet/idmanif/658274/idseance/4378493
 LOCATION:LE COMPLEXE CAFE-THEATRE\, 7 RUE DES CAPUCINS -\, 69001\, Lyon
 URL:https://www.ticketmaster.fr/fr/manifestation/comedy-club-billet/idmani
- f/658274/idtier/18864121
+ f/658274/idseance/4378493
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎤 KOSTIA
 DTSTART:20261210T193000Z
 DTEND:20261210T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7Gvq_@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:ESPACE GERSON PRESENTE : KOSTIA« T’es pas un Homme si t’a
@@ -4728,7 +4298,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 LE BOURGEOIS GENTILHOMME
 DTSTART:20261210T193000Z
 DTEND:20261210T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7ue-6@agenda-lyon
 CATEGORIES:Théâtre
 DESCRIPTION:Le Bourgeois GentilhommeSous la direction de Jérémie Lippman
@@ -4748,7 +4318,7 @@ SUMMARY:🎤 DERNIER REVEILLON AVANT L'ANNEE - DERNIER REVEILLON AVANT L
  ’ANNEE PROCHAINE
 DTSTART:20261210T200000Z
 DTEND:20261210T223000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7CAud@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:Genre : Comédie horrifiqueDurée : 1h25Texte : Compagnie du B
@@ -4767,7 +4337,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 GAUVAIN SERS
 DTSTART:20261211T190000Z
 DTEND:20261211T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7a03p@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:GAUVAIN SERSLe retour de Gauvain SersUn quatrième album aprè
@@ -4786,7 +4356,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 MARGUERITE
 DTSTART:20261211T190000Z
 DTEND:20261211T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7Gx8K@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Après un premier tube certifié platine\, « Les filles\, les
@@ -4805,7 +4375,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 RESTO BASKET   ULTRA MOULE
 DTSTART:20261211T190000Z
 DTEND:20261211T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7u4e8@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:LES ABATTOIRS PRESENTENT : RESTO BASKET ULTRA MOULEUltramoule 
@@ -4824,7 +4394,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 TIMOTHEE CURADO
 DTSTART:20261211T190000Z
 DTEND:20261211T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-rZ7SnyZ1A7AtrF@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:Et si on voyait l'École autrement ? Depuis 3 ans\, chacun a p
@@ -4843,7 +4413,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 ROMAN DODUIK - ROMAN DODUIK - ADORABLE
 DTSTART:20261211T190000Z
 DTEND:20261211T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7CK_Y@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:A 23 ans Roman Doduik est devenu malgré lui la nouvelle star 
@@ -4862,7 +4432,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 KOSTIA
 DTSTART:20261211T193000Z
 DTEND:20261211T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7GvqO@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:ESPACE GERSON PRESENTE : KOSTIA« T’es pas un Homme si t’a
@@ -4880,7 +4450,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 LE BOURGEOIS GENTILHOMME
 DTSTART:20261211T193000Z
 DTEND:20261211T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7ue-F@agenda-lyon
 CATEGORIES:Théâtre
 DESCRIPTION:Le Bourgeois GentilhommeSous la direction de Jérémie Lippman
@@ -4899,7 +4469,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 CLASSE MOYENNE
 DTSTART:20261211T193000Z
 DTEND:20261211T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A78x4f@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:Durée : 1hDès 12 ansTexte et interprétation : Mickaël Biè
@@ -4919,7 +4489,7 @@ SUMMARY:🎤 DERNIER REVEILLON AVANT L'ANNEE - DERNIER REVEILLON AVANT L
  ’ANNEE PROCHAINE
 DTSTART:20261211T200000Z
 DTEND:20261211T223000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7CAu7@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:Genre : Comédie horrifiqueDurée : 1h25Texte : Compagnie du B
@@ -4938,7 +4508,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 COMEDY CLUB
 DTSTART:20261211T210000Z
 DTEND:20261211T233000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uz3f@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
@@ -4948,17 +4518,17 @@ DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
  e de la vie quotidienne\, ou les réflexions profondes habilement déguis
  ées en punchlines\, il y en aura pour tous les goûts et nous vous…\n\n
  🎟 Billetterie : https://www.ticketmaster.fr/fr/manifestation/comedy-clu
- b-billet/idmanif/658274/idtier/18864121
+ b-billet/idmanif/658274/idseance/4378494
 LOCATION:LE COMPLEXE CAFE-THEATRE\, 7 RUE DES CAPUCINS -\, 69001\, Lyon
 URL:https://www.ticketmaster.fr/fr/manifestation/comedy-club-billet/idmani
- f/658274/idtier/18864121
+ f/658274/idseance/4378494
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎭 LE NOEL FANTASMAGIQUE DE W. ARRIBART - LE NOEL FANTASMAGIQUE 
  DE
 DTSTART:20261212T153000Z
 DTEND:20261212T180000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7GPqv@agenda-lyon
 CATEGORIES:Théâtre
 DESCRIPTION:LES DERNIERS COUCHES PRÉSENTE : LE NOEL FANTASMAGIQUE DE WILL
@@ -4968,16 +4538,16 @@ DESCRIPTION:LES DERNIERS COUCHES PRÉSENTE : LE NOEL FANTASMAGIQUE DE WILL
  s pouviez\, le temps d’un instant\, renouer avec vos rêves ?William Arr
  ibart\, illusionniste reconnu à travers la France\, vous invite à…\n\n
  🎟 Billetterie : https://www.ticketmaster.fr/fr/manifestation/le-noel-fa
- ntasmagique-de-w-arribart-billet/idmanif/658048/idtier/18864121
+ ntasmagique-de-w-arribart-billet/idmanif/658048/idseance/4325741
 LOCATION:BOURSE DU TRAVAIL\, 205\, PLACE GUICHARD\, 69003\, Lyon
 URL:https://www.ticketmaster.fr/fr/manifestation/le-noel-fantasmagique-de-
- w-arribart-billet/idmanif/658048/idtier/18864121
+ w-arribart-billet/idmanif/658048/idseance/4325741
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎤 LE GRAND SACRIPANT
 DTSTART:20261212T174500Z
 DTEND:20261212T201500Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7udFe@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:ESPACEGERSON PRESENTE : LE GRAND SACRIPANT“Et si on prenait 
@@ -4996,7 +4566,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 LE PORTEUR D'HISTOIRE
 DTSTART:20261212T180000Z
 DTEND:20261212T203000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7u-4S@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:SAS THEATRE DE L'ODEON PRÉSENTE : LE PORTEUR D'HISTOIRE\n\n
@@ -5010,7 +4580,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 SAM SAUVAGE - SAM SAUVAGE   1ère partie
 DTSTART:20261212T190000Z
 DTEND:20261212T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A71ZAp@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:La SAS (L-R-21-3557/L-R-21-3559) en accord avec Uni-t présent
@@ -5024,7 +4594,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 SOFIA BELABBES
 DTSTART:20261212T190000Z
 DTEND:20261212T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7k8fM@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:Stand-up / humour « SOFIA BELABBES » à SALLE VICTOR HUGO (L
@@ -5039,7 +4609,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 LE JAMBON
 DTSTART:20261212T193000Z
 DTEND:20261212T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7C8q0@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:Peut-on annoncer qu’on a gagné au loto à des amis qui vien
@@ -5060,7 +4630,7 @@ SUMMARY:🎤 DERNIER REVEILLON AVANT L'ANNEE - DERNIER REVEILLON AVANT L
  ’ANNEE PROCHAINE
 DTSTART:20261212T200000Z
 DTEND:20261212T223000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7CAuA@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:Genre : Comédie horrifiqueDurée : 1h25Texte : Compagnie du B
@@ -5079,7 +4649,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 KOSTIA
 DTSTART:20261212T201500Z
 DTEND:20261212T224500Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7Gvq-@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:ESPACE GERSON PRESENTE : KOSTIA« T’es pas un Homme si t’a
@@ -5097,7 +4667,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 COMEDY CLUB
 DTSTART:20261212T210000Z
 DTEND:20261212T233000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uz34@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
@@ -5107,16 +4677,16 @@ DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
  e de la vie quotidienne\, ou les réflexions profondes habilement déguis
  ées en punchlines\, il y en aura pour tous les goûts et nous vous…\n\n
  🎟 Billetterie : https://www.ticketmaster.fr/fr/manifestation/comedy-clu
- b-billet/idmanif/658274/idtier/18864121
+ b-billet/idmanif/658274/idseance/4378495
 LOCATION:LE COMPLEXE CAFE-THEATRE\, 7 RUE DES CAPUCINS -\, 69001\, Lyon
 URL:https://www.ticketmaster.fr/fr/manifestation/comedy-club-billet/idmani
- f/658274/idtier/18864121
+ f/658274/idseance/4378495
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎵 AXEL BAUER
 DTSTART:20261213T190000Z
 DTEND:20261213T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7a3uo@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:LES VISITEURS DU SOIR ET ACCELERATION PRESENTENT : AXEL BAUERG
@@ -5135,7 +4705,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 LALOU - LALOU : Qui n'a pas de nom de spectacle
 DTSTART:20261214T193000Z
 DTEND:20261214T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A71d_6@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:Furax (2L-R-25-3432 & 3L-R-25-3433) présente LALOU : Qui n'a 
@@ -5154,7 +4724,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 EMBRASSE TA MERE
 DTSTART:20261215T193000Z
 DTEND:20261215T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7G-u0@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:ESPACE GERSON PRESENTE : EMBRASSE TA MEREAlors qu’elles pren
@@ -5173,7 +4743,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 OLDELAF
 DTSTART:20261215T193000Z
 DTEND:20261215T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7G3bU@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:BELLEVUE SAS PRÉSENTE : OLDELAFContact PMR : billetterie@radi
@@ -5187,7 +4757,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 LE PORTEUR D'HISTOIRE
 DTSTART:20261216T180000Z
 DTEND:20261216T203000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7u-4V@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:SAS THEATRE DE L'ODEON PRÉSENTE : LE PORTEUR D'HISTOIRE\n\n
@@ -5201,7 +4771,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 SOWETO GOSPEL CHOIR
 DTSTART:20261216T190000Z
 DTEND:20261216T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7G-Gx@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:SOWETO GOSPEL CHOIR – POU ZOT!UNE CÉLÉBRATION MUSICALE DE 
@@ -5220,7 +4790,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 COMEDY CLUB
 DTSTART:20261216T193000Z
 DTEND:20261216T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uzf_@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
@@ -5230,16 +4800,16 @@ DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
  e de la vie quotidienne\, ou les réflexions profondes habilement déguis
  ées en punchlines\, il y en aura pour tous les goûts et nous vous…\n\n
  🎟 Billetterie : https://www.ticketmaster.fr/fr/manifestation/comedy-clu
- b-billet/idmanif/658274/idtier/18864121
+ b-billet/idmanif/658274/idseance/4378519
 LOCATION:LE COMPLEXE CAFE-THEATRE\, 7 RUE DES CAPUCINS -\, 69001\, Lyon
 URL:https://www.ticketmaster.fr/fr/manifestation/comedy-club-billet/idmani
- f/658274/idtier/18864121
+ f/658274/idseance/4378519
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎤 JEANNE ELIMA
 DTSTART:20261216T193000Z
 DTEND:20261216T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7Gvqo@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:Être à la hauteur n’est pas qu’une question de taille. F
@@ -5258,7 +4828,7 @@ SUMMARY:🎤 DERNIER REVEILLON AVANT L'ANNEE - DERNIER REVEILLON AVANT L
  ’ANNEE PROCHAINE
 DTSTART:20261216T200000Z
 DTEND:20261216T223000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7CAu6@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:Genre : Comédie horrifiqueDurée : 1h25Texte : Compagnie du B
@@ -5277,7 +4847,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 LE PORTEUR D'HISTOIRE
 DTSTART:20261217T180000Z
 DTEND:20261217T203000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7u-4g@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:SAS THEATRE DE L'ODEON PRÉSENTE : LE PORTEUR D'HISTOIRE\n\n
@@ -5291,7 +4861,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 FFF
 DTSTART:20261217T190000Z
 DTEND:20261217T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7FUGt@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:ELDORADO ET ALIAS PRESENTENT : FFFPremière partie : JANGO JAN
@@ -5310,7 +4880,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 LEMAN
 DTSTART:20261217T190000Z
 DTEND:20261217T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7a9kp@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Le spectacle initialement prévu le vendredi 23 octobre 2026 e
@@ -5329,7 +4899,7 @@ BEGIN:VEVENT
 SUMMARY:🎤 JEANNE ELIMA
 DTSTART:20261217T193000Z
 DTEND:20261217T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7Gvq3@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:Être à la hauteur n’est pas qu’une question de taille. F
@@ -5348,8 +4918,384 @@ SUMMARY:🎤 DERNIER REVEILLON AVANT L'ANNEE - DERNIER REVEILLON AVANT L
  ’ANNEE PROCHAINE
 DTSTART:20261217T200000Z
 DTEND:20261217T223000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7CAuF@agenda-lyon
+CATEGORIES:Stand-up / humour
+DESCRIPTION:Genre : Comédie horrifiqueDurée : 1h25Texte : Compagnie du B
+ istanclacMise en scène : Valérian MoutaweAvec : Céline Aquin en alterna
+ nce avec Delphine Leputh\, Mehdi Benyahia\, Manon Gauthier\, Thomas Giraud
+ \, Yvan Lecomte31 décembre\, un tueur en série particulièrement sordide
+  est repéré dans les hauteurs de Gap. Son nombre de victimes s'élèvera
+ it à plus de 30 personnes. Pendant ce temps-là\, Emile\,…\n\n🎟 Bill
+ etterie : https://www.ticketmaster.fr/fr/manifestation/dernier-reveillon-a
+ vant-l-annee-billet/idmanif/667879/idtier/18864121
+LOCATION:THEATRE COMEDIE ODEON\, 6\, RUE GROLEE\, 69002\, Lyon
+URL:https://www.ticketmaster.fr/fr/manifestation/dernier-reveillon-avant-l
+ -annee-billet/idmanif/667879/idtier/18864121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎤 LE PORTEUR D'HISTOIRE
+DTSTART:20261218T180000Z
+DTEND:20261218T203000Z
+DTSTAMP:20261019T102600Z
+UID:tm-ZkyMmBwZ1A7u-4U@agenda-lyon
+CATEGORIES:Stand-up / humour
+DESCRIPTION:SAS THEATRE DE L'ODEON PRÉSENTE : LE PORTEUR D'HISTOIRE\n\n
+ 🎟 Billetterie : https://www.ticketmaster.fr/fr/manifestation/le-porteur
+ -d-histoire-billet/idmanif/663770/idtier/18864121
+LOCATION:THEATRE COMEDIE ODEON\, 6\, RUE GROLEE\, 69002\, Lyon
+URL:https://www.ticketmaster.fr/fr/manifestation/le-porteur-d-histoire-bil
+ let/idmanif/663770/idtier/18864121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎤 D'JAL
+DTSTART:20261218T190000Z
+DTEND:20261218T213000Z
+DTSTAMP:20261019T102600Z
+UID:tm-rZ7SnyZ1A773Zp@agenda-lyon
+CATEGORIES:Stand-up / humour
+DESCRIPTION:« Après deux shows à guichets fermés\, plus de 200 représ
+ entations et des milliers de spectateurs\, D’jal est de retour avec un n
+ ouveau spectacle mêlant personnages toujours plus dingues et situations e
+ ncore plus folles ! L’occasion de s’amuser tout en prenant votre dose 
+ d’humour et d’amour »Réservation pour les personnes en situation de 
+ handicap : billetterie@lesdernierscouches.com\n\n🎟 Billetterie : https:
+ //www.ticketmaster.fr/fr/manifestation/d-jal-billet/idmanif/625740/idtier/
+ 18864121
+LOCATION:BOURSE DU TRAVAIL\, 205\, PLACE GUICHARD\, 69003\, Lyon
+URL:https://www.ticketmaster.fr/fr/manifestation/d-jal-billet/idmanif/6257
+ 40/idtier/18864121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎤 JEANNE ELIMA
+DTSTART:20261218T193000Z
+DTEND:20261218T220000Z
+DTSTAMP:20261019T102600Z
+UID:tm-ZkyMmBwZ1A7GvqK@agenda-lyon
+CATEGORIES:Stand-up / humour
+DESCRIPTION:Être à la hauteur n’est pas qu’une question de taille. F
+ emme tempête\, femme-caoutchouc\, Jeanne Élima n’est décidément pas 
+ une humoriste comme les autres. Entre parodie et pantomime\, cette comédi
+ enne impossible à cloisonner brise le plafond de verre des spectacles tra
+ ditionnels et emporte le public par un feu créatif constant.\n\n🎟 Bill
+ etterie : https://www.ticketmaster.fr/fr/manifestation/jeanne-elima-billet
+ /idmanif/653710/idseance/4301753
+LOCATION:ESPACE GERSON\, 1 PLACE GERSON\, 69005\, Lyon
+URL:https://www.ticketmaster.fr/fr/manifestation/jeanne-elima-billet/idman
+ if/653710/idseance/4301753
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎤 DERNIER REVEILLON AVANT L'ANNEE - DERNIER REVEILLON AVANT L
+ ’ANNEE PROCHAINE
+DTSTART:20261218T200000Z
+DTEND:20261218T223000Z
+DTSTAMP:20261019T102600Z
+UID:tm-ZkyMmBwZ1A7CAua@agenda-lyon
+CATEGORIES:Stand-up / humour
+DESCRIPTION:Genre : Comédie horrifiqueDurée : 1h25Texte : Compagnie du B
+ istanclacMise en scène : Valérian MoutaweAvec : Céline Aquin en alterna
+ nce avec Delphine Leputh\, Mehdi Benyahia\, Manon Gauthier\, Thomas Giraud
+ \, Yvan Lecomte31 décembre\, un tueur en série particulièrement sordide
+  est repéré dans les hauteurs de Gap. Son nombre de victimes s'élèvera
+ it à plus de 30 personnes. Pendant ce temps-là\, Emile\,…\n\n🎟 Bill
+ etterie : https://www.ticketmaster.fr/fr/manifestation/dernier-reveillon-a
+ vant-l-annee-billet/idmanif/667879/idtier/18864121
+LOCATION:THEATRE COMEDIE ODEON\, 6\, RUE GROLEE\, 69002\, Lyon
+URL:https://www.ticketmaster.fr/fr/manifestation/dernier-reveillon-avant-l
+ -annee-billet/idmanif/667879/idtier/18864121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎤 COMEDY CLUB
+DTSTART:20261218T210000Z
+DTEND:20261218T233000Z
+DTSTAMP:20261019T102600Z
+UID:tm-ZkyMmBwZ1A7uz3b@agenda-lyon
+CATEGORIES:Stand-up / humour
+DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
+  explosive !Le Complexe café-théâtre a minutieusement sélectionné pou
+ r vous une équipe d’artistes qui maîtrisent l’art du stand-up comme 
+ personne !Que vous aimiez l’humour décalé\, l’observation sarcastiqu
+ e de la vie quotidienne\, ou les réflexions profondes habilement déguis
+ ées en punchlines\, il y en aura pour tous les goûts et nous vous…\n\n
+ 🎟 Billetterie : https://www.ticketmaster.fr/fr/manifestation/comedy-clu
+ b-billet/idmanif/658274/idseance/4378498
+LOCATION:LE COMPLEXE CAFE-THEATRE\, 7 RUE DES CAPUCINS -\, 69001\, Lyon
+URL:https://www.ticketmaster.fr/fr/manifestation/comedy-club-billet/idmani
+ f/658274/idseance/4378498
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎤 LE GRAND SACRIPANT
+DTSTART:20261219T174500Z
+DTEND:20261219T201500Z
+DTSTAMP:20261019T102600Z
+UID:tm-ZkyMmBwZ1A7udFd@agenda-lyon
+CATEGORIES:Stand-up / humour
+DESCRIPTION:ESPACEGERSON PRESENTE : LE GRAND SACRIPANT“Et si on prenait 
+ un peu de hauteur ?” Du haut de ses échasses\, Le Grand Sacripant s’a
+ muse à questionner nos points de vue\, nos certitudes et notre capacité 
+ à prononcer “ses échasses”. Entre anecdotes personnelles\, réflexio
+ ns (plus ou moins philosophiques) et humour bien senti\, Andromède nous r
+ appelle qu’il est parfois utile — et franchement drôle —…\n\n🎟
+  Billetterie : https://www.ticketmaster.fr/fr/manifestation/le-grand-sacri
+ pant-billet/idmanif/660471/idtier/18864121
+LOCATION:ESPACE GERSON\, 1 PLACE GERSON\, 69005\, Lyon
+URL:https://www.ticketmaster.fr/fr/manifestation/le-grand-sacripant-billet
+ /idmanif/660471/idtier/18864121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎤 LE PORTEUR D'HISTOIRE
+DTSTART:20261219T180000Z
+DTEND:20261219T203000Z
+DTSTAMP:20261019T102600Z
+UID:tm-ZkyMmBwZ1A7u-4M@agenda-lyon
+CATEGORIES:Stand-up / humour
+DESCRIPTION:SAS THEATRE DE L'ODEON PRÉSENTE : LE PORTEUR D'HISTOIRE\n\n
+ 🎟 Billetterie : https://www.ticketmaster.fr/fr/manifestation/le-porteur
+ -d-histoire-billet/idmanif/663770/idtier/18864121
+LOCATION:THEATRE COMEDIE ODEON\, 6\, RUE GROLEE\, 69002\, Lyon
+URL:https://www.ticketmaster.fr/fr/manifestation/le-porteur-d-histoire-bil
+ let/idmanif/663770/idtier/18864121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎤 COMEDY CLUB
+DTSTART:20261219T190000Z
+DTEND:20261219T213000Z
+DTSTAMP:20261019T102600Z
+UID:tm-ZkyMmBwZ1A7uzfZ@agenda-lyon
+CATEGORIES:Stand-up / humour
+DESCRIPTION:PLATEAU D HUMORISTESUn plateau d’humoristes pour une soirée
+  explosive !Le Complexe café-théâtre a minutieusement sélectionné pou
+ r vous une équipe d’artistes qui maîtrisent l’art du stand-up comme 
+ personne !Que vous aimiez l’humour décalé\, l’observation sarcastiqu
+ e de la vie quotidienne\, ou les réflexions profondes habilement déguis
+ ées en punchlines\, il y en aura pour tous les goûts et nous vous…\n\n
+ 🎟 Billetterie : https://www.ticketmaster.fr/fr/manifestation/comedy-clu
+ b-billet/idmanif/658274/idseance/4378500
+LOCATION:LE COMPLEXE CAFE-THEATRE\, 7 RUE DES CAPUCINS -\, 69001\, Lyon
+URL:https://www.ticketmaster.fr/fr/manifestation/comedy-club-billet/idmani
+ f/658274/idseance/4378500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎤 BERNARD WERBER
+DTSTART:20261219T190000Z
+DTEND:20261219T213000Z
+DTSTAMP:20261019T102600Z
+UID:tm-ZkyMmBwZ1A7ayrb@agenda-lyon
+CATEGORIES:Stand-up / humour
+DESCRIPTION:BERNARD WERBER« V.I.E » - 2026 Le spectacle V.I.E pour VOYAG
+ E INTERIEUR EXPERIMENTAL\, est une expérience d’un nouveau genre. Dans 
+ ce mélange de rêvé éveillé\, de méditation guidée\, d’humour et d
+ e musique relaxante\, l’écrivain Bernard Werber vous invite à pratique
+ r du « TOURISME SPIRITUEL ». Guidés par sa voix et par la musique plana
+ nte qui l’accompagne\, les spectateurs vivent une plongée dans…\n\n
+ 🎟 Billetterie : https://www.ticketmaster.fr/fr/manifestation/bernard-we
+ rber-billet/idmanif/650635/idtier/18864121
+LOCATION:BOURSE DU TRAVAIL\, 205\, PLACE GUICHARD\, 69003\, Lyon
+URL:https://www.ticketmaster.fr/fr/manifestation/bernard-werber-billet/idm
+ anif/650635/idtier/18864121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎤 AMANDINE LOURDEL
+DTSTART:20261219T193000Z
+DTEND:20261219T220000Z
+DTSTAMP:20261019T102600Z
+UID:tm-ZkyMmBwZ1A7k_At@agenda-lyon
+CATEGORIES:Stand-up / humour
+DESCRIPTION:Stand-up / humour « AMANDINE LOURDEL » à RADIANT - BELLEVUE
+  (Caluire Et Cuire). Genre : Comedy / Comedy. Réservation via le lien de 
+ billetterie ci-dessous.\n\n🎟 Billetterie : https://www.ticketmaster.fr/
+ fr/manifestation/amandine-lourdel-billet/idmanif/641653/idtier/18864121
+LOCATION:RADIANT - BELLEVUE\, 1 RUE JEAN MOULIN\, 69300\, Caluire Et Cuire
+URL:https://www.ticketmaster.fr/fr/manifestation/amandine-lourdel-billet/i
+ dmanif/641653/idtier/18864121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎤 DERNIER REVEILLON AVANT L'ANNEE - DERNIER REVEILLON AVANT L
+ ’ANNEE PROCHAINE
+DTSTART:20261219T200000Z
+DTEND:20261219T223000Z
+DTSTAMP:20261019T102600Z
+UID:tm-ZkyMmBwZ1A7CAu8@agenda-lyon
+CATEGORIES:Stand-up / humour
+DESCRIPTION:Genre : Comédie horrifiqueDurée : 1h25Texte : Compagnie du B
+ istanclacMise en scène : Valérian MoutaweAvec : Céline Aquin en alterna
+ nce avec Delphine Leputh\, Mehdi Benyahia\, Manon Gauthier\, Thomas Giraud
+ \, Yvan Lecomte31 décembre\, un tueur en série particulièrement sordide
+  est repéré dans les hauteurs de Gap. Son nombre de victimes s'élèvera
+ it à plus de 30 personnes. Pendant ce temps-là\, Emile\,…\n\n🎟 Bill
+ etterie : https://www.ticketmaster.fr/fr/manifestation/dernier-reveillon-a
+ vant-l-annee-billet/idmanif/667879/idtier/18864121
+LOCATION:THEATRE COMEDIE ODEON\, 6\, RUE GROLEE\, 69002\, Lyon
+URL:https://www.ticketmaster.fr/fr/manifestation/dernier-reveillon-avant-l
+ -annee-billet/idmanif/667879/idtier/18864121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎤 JEANNE ELIMA
+DTSTART:20261219T201500Z
+DTEND:20261219T224500Z
+DTSTAMP:20261019T102600Z
+UID:tm-ZkyMmBwZ1A7Gvqf@agenda-lyon
+CATEGORIES:Stand-up / humour
+DESCRIPTION:Être à la hauteur n’est pas qu’une question de taille. F
+ emme tempête\, femme-caoutchouc\, Jeanne Élima n’est décidément pas 
+ une humoriste comme les autres. Entre parodie et pantomime\, cette comédi
+ enne impossible à cloisonner brise le plafond de verre des spectacles tra
+ ditionnels et emporte le public par un feu créatif constant.\n\n🎟 Bill
+ etterie : https://www.ticketmaster.fr/fr/manifestation/jeanne-elima-billet
+ /idmanif/653710/idseance/4301754
+LOCATION:ESPACE GERSON\, 1 PLACE GERSON\, 69005\, Lyon
+URL:https://www.ticketmaster.fr/fr/manifestation/jeanne-elima-billet/idman
+ if/653710/idseance/4301754
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎤 LE PETIT COIFFEUR
+DTSTART:20261220T160000Z
+DTEND:20261220T183000Z
+DTSTAMP:20261019T102600Z
+UID:tm-ZkyMmBwZ1A7usxK@agenda-lyon
+CATEGORIES:Stand-up / humour
+DESCRIPTION:SAS THEATRE DE L'ODEON PRÉSENTE : LE PETIT COIFFEURUne pièce
+  écrite et mise en scène par Jean-Philippe DaguerreDistribution lyonnais
+ e : Romy Chenelat\, Bruno Fontaine\, Yohan Genin\, Amandine Longeac\, Paul
+  ValyDécors : Juliette AzzopardiCostumes : Alain BlanchotMusiques : Herv
+ é HaineLumières : Moïse HillChorégraphie : Florentine HoudiniereAssist
+ ant à la mise en scène : Hervé HaineAprès le succès de…\n\n🎟 Bil
+ letterie : https://www.ticketmaster.fr/fr/manifestation/le-petit-coiffeur-
+ billet/idmanif/665779/idtier/18864121
+LOCATION:THEATRE COMEDIE ODEON\, 6\, RUE GROLEE\, 69002\, Lyon
+URL:https://www.ticketmaster.fr/fr/manifestation/le-petit-coiffeur-billet/
+ idmanif/665779/idtier/18864121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎤 CHANTAL LADESOU
+DTSTART:20261220T160000Z
+DTEND:20261220T183000Z
+DTSTAMP:20261019T102600Z
+UID:tm-ZkyMmBwZ1A7ap0N@agenda-lyon
+CATEGORIES:Stand-up / humour
+DESCRIPTION:BB PRODUCTION\, en accord avec CASSONADE\, PrésenteCHANTAL LA
+ DESOUICONIQUEPrésenter le nouveau spectacle de Chantal Ladesou revient à
+  présenter Chantal Iconique ellemême \, son caractère \, sa manière de
+  dire\, de voir avec ses yeux \, de rappeler en spectatrice dumonde tout c
+ e qui nous porte au coeur.Show-girl éclectique\, populaire mais pas que\,
+  Chantal Ladesou nous surprend à chaque foisavec sa…\n\n🎟 Billetteri
+ e : https://www.ticketmaster.fr/fr/manifestation/chantal-ladesou-billet/id
+ manif/647880/idtier/18864121
+LOCATION:BOURSE DU TRAVAIL\, 205\, PLACE GUICHARD\, 69003\, Lyon
+URL:https://www.ticketmaster.fr/fr/manifestation/chantal-ladesou-billet/id
+ manif/647880/idtier/18864121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎤 ANTHONY KAVANAGH
+DTSTART:20261220T170000Z
+DTEND:20261220T193000Z
+DTSTAMP:20261019T102600Z
+UID:tm-ZkyMmBwZ1A7Gbb_@agenda-lyon
+CATEGORIES:Stand-up / humour
+DESCRIPTION:BB PRODUCTION présente en accord avec VIRAGE PRODUCTIONSANTHO
+ NY KAVANAGHJetlag\n\n🎟 Billetterie : https://www.ticketmaster.fr/fr/man
+ ifestation/anthony-kavanagh-billet/idmanif/656763/idseance/4318619
+LOCATION:RADIANT - BELLEVUE\, 1 RUE JEAN MOULIN\, 69300\, Caluire Et Cuire
+URL:https://www.ticketmaster.fr/fr/manifestation/anthony-kavanagh-billet/i
+ dmanif/656763/idseance/4318619
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 FABRICE LUCHINI LIT VICTOR HUGO
+DTSTART:20261221T190000Z
+DTEND:20261221T213000Z
+DTSTAMP:20261019T102600Z
+UID:tm-ZkyMmBwZ1A7uEF9@agenda-lyon
+CATEGORIES:Théâtre
+DESCRIPTION:Fabrice LuchiniLIT VICTOR HUGODans cette création mise en sc
+ ène par Emmanuelle Garassino\, Fabrice Luchini lit des textes et poèmes 
+ de Victor Hugo\, sublimant les mots\, le souffle et le rythme du grand po
+ ète.« J’ai fait une première lecture de textes et poèmes de Victor H
+ ugo devant le public en juin 2021\, dans les jardins de la Maison de Chate
+ aubriand. Contrairement à la phrase d’André Gide\,…\n\n🎟 Billette
+ rie : https://www.ticketmaster.fr/fr/manifestation/fabrice-luchini-lit-vic
+ tor-hugo-billet/idmanif/660572/idtier/18864121
+LOCATION:RADIANT - BELLEVUE\, 1 RUE JEAN MOULIN\, 69300\, Caluire Et Cuire
+URL:https://www.ticketmaster.fr/fr/manifestation/fabrice-luchini-lit-victo
+ r-hugo-billet/idmanif/660572/idtier/18864121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 FABRICE LUCHINI LIT VICTOR HUGO
+DTSTART:20261222T190000Z
+DTEND:20261222T213000Z
+DTSTAMP:20261019T102600Z
+UID:tm-ZkyMmBwZ1A7ud8w@agenda-lyon
+CATEGORIES:Théâtre
+DESCRIPTION:Fabrice LuchiniLIT VICTOR HUGODans cette création mise en sc
+ ène par Emmanuelle Garassino\, Fabrice Luchini lit des textes et poèmes 
+ de Victor Hugo\, sublimant les mots\, le souffle et le rythme du grand po
+ ète.« J’ai fait une première lecture de textes et poèmes de Victor H
+ ugo devant le public en juin 2021\, dans les jardins de la Maison de Chate
+ aubriand. Contrairement à la phrase d’André Gide\,…\n\n🎟 Billette
+ rie : https://www.ticketmaster.fr/fr/manifestation/fabrice-luchini-lit-vic
+ tor-hugo-billet/idmanif/660572/idtier/18864121
+LOCATION:RADIANT - BELLEVUE\, 1 RUE JEAN MOULIN\, 69300\, Caluire Et Cuire
+URL:https://www.ticketmaster.fr/fr/manifestation/fabrice-luchini-lit-victo
+ r-hugo-billet/idmanif/660572/idtier/18864121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎤 EMBRASSE TA MERE
+DTSTART:20261222T193000Z
+DTEND:20261222T220000Z
+DTSTAMP:20261019T102600Z
+UID:tm-ZkyMmBwZ1A7G-uP@agenda-lyon
+CATEGORIES:Stand-up / humour
+DESCRIPTION:ESPACE GERSON PRESENTE : EMBRASSE TA MEREAlors qu’elles pren
+ nent la route pour enterrer un membre de la famille\, Nina et sa mère pro
+ fitent du voyage pour déterrer quelques haches de guerre bien tranchantes
+ .Une chose est certaine : il n’y a pas que les pneus de la voiture qui v
+ ont crever ! Yolande\, c’est cette mère envahissante et limite abusive
+ \, que l’on n’aurait pas voulu avoir. Celle qui vous…\n\n🎟 Billet
+ terie : https://www.ticketmaster.fr/fr/manifestation/embrasse-ta-mere-bill
+ et/idmanif/657355/idtier/18864121
+LOCATION:ESPACE GERSON\, 1 PLACE GERSON\, 69005\, Lyon
+URL:https://www.ticketmaster.fr/fr/manifestation/embrasse-ta-mere-billet/i
+ dmanif/657355/idtier/18864121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎤 LE PORTEUR D'HISTOIRE
+DTSTART:20261223T180000Z
+DTEND:20261223T203000Z
+DTSTAMP:20261019T102600Z
+UID:tm-ZkyMmBwZ1A7u-4z@agenda-lyon
+CATEGORIES:Stand-up / humour
+DESCRIPTION:SAS THEATRE DE L'ODEON PRÉSENTE : LE PORTEUR D'HISTOIRE\n\n
+ 🎟 Billetterie : https://www.ticketmaster.fr/fr/manifestation/le-porteur
+ -d-histoire-billet/idmanif/663770/idtier/18864121
+LOCATION:THEATRE COMEDIE ODEON\, 6\, RUE GROLEE\, 69002\, Lyon
+URL:https://www.ticketmaster.fr/fr/manifestation/le-porteur-d-histoire-bil
+ let/idmanif/663770/idtier/18864121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎤 LE GRAND SACRIPANT
+DTSTART:20261223T193000Z
+DTEND:20261223T220000Z
+DTSTAMP:20261019T102600Z
+UID:tm-ZkyMmBwZ1A7udF7@agenda-lyon
+CATEGORIES:Stand-up / humour
+DESCRIPTION:ESPACEGERSON PRESENTE : LE GRAND SACRIPANT“Et si on prenait 
+ un peu de hauteur ?” Du haut de ses échasses\, Le Grand Sacripant s’a
+ muse à questionner nos points de vue\, nos certitudes et notre capacité 
+ à prononcer “ses échasses”. Entre anecdotes personnelles\, réflexio
+ ns (plus ou moins philosophiques) et humour bien senti\, Andromède nous r
+ appelle qu’il est parfois utile — et franchement drôle —…\n\n🎟
+  Billetterie : https://www.ticketmaster.fr/fr/manifestation/le-grand-sacri
+ pant-billet/idmanif/660471/idtier/18864121
+LOCATION:ESPACE GERSON\, 1 PLACE GERSON\, 69005\, Lyon
+URL:https://www.ticketmaster.fr/fr/manifestation/le-grand-sacripant-billet
+ /idmanif/660471/idtier/18864121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎤 DERNIER REVEILLON AVANT L'ANNEE - DERNIER REVEILLON AVANT L
+ ’ANNEE PROCHAINE
+DTSTART:20261223T200000Z
+DTEND:20261223T223000Z
+DTSTAMP:20261019T102600Z
+UID:tm-ZkyMmBwZ1A7CAuo@agenda-lyon
 CATEGORIES:Stand-up / humour
 DESCRIPTION:Genre : Comédie horrifiqueDurée : 1h25Texte : Compagnie du B
  istanclacMise en scène : Valérian MoutaweAvec : Céline Aquin en alterna
@@ -5367,7 +5313,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 ETIENNE DAHO
 DTSTART:20270104T190000Z
 DTEND:20270104T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A78POP@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Concert « ETIENNE DAHO » à RADIANT - BELLEVUE (Caluire Et C
@@ -5383,7 +5329,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 SELLIG - SELLIG - EPISODE 7
 DTSTART:20270106T193000Z
 DTEND:20270106T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uOqs@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:AG PRODUCTION PRÉSENTE : SELLIG EPISODE 7 Dans l’Épisode 7
@@ -5402,7 +5348,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 JONATHAN DASSIN chante JOE DASSIN
 DTSTART:20270107T190000Z
 DTEND:20270107T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-rZ7SnyZ1A7A0bv@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:HUGUES GENTELET ET 20H40 PRODUCTIONS PRÉSENTENT : JONATHAN DA
@@ -5421,7 +5367,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 ISABELLE AUBRET
 DTSTART:20270108T190000Z
 DTEND:20270108T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7CFOk@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:ALEXANDRE SORIN PRODUCTIONS PRESENTE : Après avoir conclu ses
@@ -5440,7 +5386,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 THE MUSICAL STORY OF ELVIS
 DTSTART:20270108T190000Z
 DTEND:20270108T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7G7Cd@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:GERARD DROUOT PRODUCTIONS ET ELDORADO PRESENTENT : THE MUSICAL
@@ -5458,7 +5404,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 JERSEY
 DTSTART:20270108T190000Z
 DTEND:20270108T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A78P4M@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Les JERSEY vont vite… mais ne laissent jamais rien au hasard
@@ -5478,7 +5424,7 @@ SUMMARY:🎵 GOLDMEN - CONCERT 100% GOLDMAN A FGJ - GOLDMEN - CONCERT 100%
   GOLDMAN
 DTSTART:20270108T190000Z
 DTEND:20270108T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-rZ7SnyZ1A7vEfo@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:GINGER PRÉSENTE : GOLDMEN - CONCERT 100% GOLDMANDe Goldman à
@@ -5497,7 +5443,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 QUATUOR DEBUSSY
 DTSTART:20270109T193000Z
 DTEND:20270109T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7ud8g@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Quatuor DebussyLes Danses hongroises déchaînées !Un souffle
@@ -5516,7 +5462,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 CALI
 DTSTART:20270109T193000Z
 DTEND:20270109T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uJPa@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:TOBOGGAN PRÉSENTE : CALIEn tournéeCali revient sur scène po
@@ -5535,7 +5481,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 MARIZA
 DTSTART:20270110T170000Z
 DTEND:20270110T193000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7G34E@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Concert « MARIZA » à L'AMPHITHEATRE (Lyon). Genre : Pop / P
@@ -5550,7 +5496,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 ONE NIGHT OF QUEEN
 DTSTART:20270113T190000Z
 DTEND:20270113T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-rZ7SnyZ1A7eZfS@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Richard Walter productions (licence n°R-2022006816 - R2022008
@@ -5569,7 +5515,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 LAURENT VOULZY
 DTSTART:20270113T193000Z
 DTEND:20270113T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7u7bJ@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Laurent VoulzyLaurent Voulzy est de retour au Radiant-Bellevue
@@ -5588,7 +5534,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 GIEDRE
 DTSTART:20270115T190000Z
 DTEND:20270115T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7GP_g@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:GiedRé\, ce qu’elle aime bien dans la vie\, c’est écrire
@@ -5607,7 +5553,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 FILLS MONKEY
 DTSTART:20270116T190000Z
 DTEND:20270116T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7G-u9@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:FILLS MONKEY – WE WILL DRUM YOULes Fills Monkey\, c’est un
@@ -5626,7 +5572,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 TETE
 DTSTART:20270120T190000Z
 DTEND:20270120T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7Gb46@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:LDC présente\, en accord avec ZOUAVETété : Le Tour Solo Sol
@@ -5645,7 +5591,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 FLAVIA COELHO
 DTSTART:20270121T190000Z
 DTEND:20270121T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uUvZ@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:FLAVIA COELHO BR/FR – Sono Mondiale –Piano-Voix Flavia Coe
@@ -5664,7 +5610,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 ZAOUI
 DTSTART:20270121T190000Z
 DTEND:20270121T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7G_AS@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Après le succès phénoménal de Thérapie Taxi\, Zaoui se la
@@ -5681,7 +5627,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 ORANGE BLOSSOM
 DTSTART:20270121T193000Z
 DTEND:20270121T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7CvkZ@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Orange Blossom invite à un voyage hors du commun\, à la croi
@@ -5700,7 +5646,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 DE MICHEL BERGER A FRANCE GALL-TRIBUTE
 DTSTART:20270122T193000Z
 DTEND:20270122T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7G0Ce@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:DE MICHEL BERGER A FRANCE GALL-TRIBUTELa France des années 70
@@ -5717,7 +5663,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 FÉLIX RADU
 DTSTART:20270122T193000Z
 DTEND:20270122T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A78x49@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Durée : 1h15Dès 12 ansProduction : Arachnée ProductionsFél
@@ -5735,7 +5681,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 RFM PARTY 80
 DTSTART:20270124T170000Z
 DTEND:20270124T193000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7aUrK@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Soyez parmi les premiers à réserver vos billets.Prévente Ti
@@ -5754,7 +5700,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 NTO
 DTSTART:20270128T190000Z
 DTEND:20270128T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uJ86@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:La SAS (Lic. 2-016649/3-016648) en accord avec WART présenteN
@@ -5768,7 +5714,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 ALOÏSE SAUVAGE
 DTSTART:20270129T190000Z
 DTEND:20270129T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A78Iux@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Aloïse Sauvage est une enfant de la scène avant tout. Coméd
@@ -5787,7 +5733,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 GALLOWSTREET
 DTSTART:20270129T190000Z
 DTEND:20270129T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7u4e3@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:LES ABATTOIRS PRESENTENT : GALLOWSTREETCuivres\, batterie et s
@@ -5806,7 +5752,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 SAM QUEALY
 DTSTART:20270130T190000Z
 DTEND:20270130T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A78oZF@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Le deuxième album de Sam Quealy\, JAWBREAKER\, tire son titre
@@ -5825,7 +5771,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 SKIP THE USE
 DTSTART:20270130T190000Z
 DTEND:20270130T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7GgG3@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Soyez parmi les premiers à réserver vos billetsPrévente Tic
@@ -5841,7 +5787,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 DAVE - DAVE - L'ANNIVERSAIRE
 DTSTART:20270131T143000Z
 DTEND:20270131T170000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7ug4K@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Retrouvez le plus français des Néerlandais\, pour un moment 
@@ -5861,7 +5807,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 JEAN-FRANCOIS PAUZE
 DTSTART:20270202T190000Z
 DTEND:20270202T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7k9F_@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Concert « JEAN-FRANCOIS PAUZE » à LE TRANSBORDEUR (Villeurb
@@ -5877,7 +5823,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 FOREVER - TRIBUTE TO MICHAEL JACKSON - FOREVER
 DTSTART:20270202T190000Z
 DTEND:20270202T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-rZ7SnyZ1A7AdOJ@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:FOREVER TRIBUTE TO MICHAEL JACKSONTHE BEST SHOW ABOUT THE KING
@@ -5896,7 +5842,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 VALENTINA
 DTSTART:20270203T170000Z
 DTEND:20270203T193000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uZo-@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:DAMIEN NOUGAREDE PRESENTE EN ACCORD AVEC BVCKSTAGE : VALENTINA
@@ -5915,7 +5861,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 EMILY LOIZEAU   TOM BIRD
 DTSTART:20270204T193000Z
 DTEND:20270204T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7C6fs@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Emily LoizeauSon premier album « L’autre bout du monde « e
@@ -5934,7 +5880,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 EVA
 DTSTART:20270205T190000Z
 DTEND:20270205T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A78A1Z@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Avec Summer Girl\, Eva signe son projet le plus libre et le pl
@@ -5952,7 +5898,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 BOULEVARD DES AIRS
 DTSTART:20270205T190000Z
 DTEND:20270205T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uJPk@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Je rentre à la maisonUn concert qui fait lever les foules et 
@@ -5971,7 +5917,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 FLORENT MARCHET   MELISSENDE
 DTSTART:20270205T193000Z
 DTEND:20270205T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7C6bA@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Florent MarchetChanteur à la présence singulière\, cultivan
@@ -5990,7 +5936,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 NOE PRESZOW   NACH   LISA CLAUDIE
 DTSTART:20270206T190000Z
 DTEND:20270206T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7C6b6@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Noé PreszowEn deux albums studio et un album live\, le bruxel
@@ -6009,7 +5955,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 BAZAR CIRCUS
 DTSTART:20270207T150000Z
 DTEND:20270207T173000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7u7re@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Bazar CircusRien ne va plus au Bazar Circus !Adapté d’un al
@@ -6028,7 +5974,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 FUNKY SOUL FAMILY
 DTSTART:20270207T160000Z
 DTEND:20270207T183000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A78I3f@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Sous la direction artistique de « The 100 Voices of Gospel \,
@@ -6047,7 +5993,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 NAÏKA
 DTSTART:20270207T190000Z
 DTEND:20270207T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A78E4s@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Concert « NAÏKA » à LE TRANSBORDEUR (Villeurbanne). Genre 
@@ -6062,7 +6008,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 LEE FIELDS
 DTSTART:20270209T190000Z
 DTEND:20270209T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A78ZJF@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:La soul émane de Lee Fields avec une liberté et une généro
@@ -6081,7 +6027,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 CLASH ROCK - DE SCHUBERT A NIRVANA
 DTSTART:20270210T190000Z
 DTEND:20270210T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7GxFe@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Mediatone (Lic.29194980 et 29205104) & CLASH présententCLASH 
@@ -6096,7 +6042,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 PLEASE
 DTSTART:20270212T183000Z
 DTEND:20270212T210000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7ag0I@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Concert « PLEASE » à LA MARQUISE (Lyon). Genre : Rock / Pop
@@ -6111,7 +6057,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 JEANJASS
 DTSTART:20270217T190000Z
 DTEND:20270217T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uZGo@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:HIGH-LO présente : JEANJASS- Les mineurs de moins de 16 ans d
@@ -6130,7 +6076,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 LEWIS OFMAN
 DTSTART:20270219T180000Z
 DTEND:20270219T203000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7udAw@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Concert « LEWIS OFMAN » à LE SUCRE (Lyon). Genre : Dance/El
@@ -6145,7 +6091,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 AUPINARD
 DTSTART:20270219T190000Z
 DTEND:20270219T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A788fs@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:AUPINARDFR – Bossa Nova / R&BBienvenue dans le spleen social
@@ -6164,7 +6110,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 EZRA COLLECTIVE
 DTSTART:20270223T190000Z
 DTEND:20270223T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7Ck4f@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Here Because Of Hope est l'album le plus ambitieux et le plus 
@@ -6183,7 +6129,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 LIO
 DTSTART:20270224T190000Z
 DTEND:20270224T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uK-4@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:RPO PRÉSENTE : LIORévélée par son single incontournable Ba
@@ -6202,7 +6148,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 POMME
 DTSTART:20270225T190000Z
 DTEND:20270225T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A78P4f@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Concert « POMME » à RADIANT - BELLEVUE (Caluire Et Cuire). 
@@ -6217,7 +6163,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 PAOLO.
 DTSTART:20270227T183000Z
 DTEND:20270227T210000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7G_a7@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:LA SAS PRÉSENTE : PAOLO.À seulement 23 ans\, Paolo possède 
@@ -6234,7 +6180,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 HATIK
 DTSTART:20270227T190000Z
 DTEND:20270227T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7ZgOP@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:« En raison du retard pris sur la production des nouveaux mor
@@ -6253,7 +6199,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 MARINE
 DTSTART:20270305T190000Z
 DTEND:20270305T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7Fgj9@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Concert « MARINE » à HALLE TONY GARNIER (Lyon). Genre : Cha
@@ -6268,7 +6214,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 ANDRE MANOUKIAN
 DTSTART:20270305T193000Z
 DTEND:20270305T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uM-o@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:La SultaneEntre mémoire et métissage\, un hommage aux femmes
@@ -6285,7 +6231,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 TYPHEE
 DTSTART:20270306T190000Z
 DTEND:20270306T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A780qp@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Grand gagnant de la nouvelle saison de Nouvelle École\, TYPHE
@@ -6302,7 +6248,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 LES ANNEES 80\, LA TOURNEE
 DTSTART:20270306T190000Z
 DTEND:20270306T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7FwPM@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Hugues Gentelet & 20h40 Productions présententLes Années 80
@@ -6321,7 +6267,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 MARC LAVOINE
 DTSTART:20270308T190000Z
 DTEND:20270308T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A78eG_@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Après un premier volet de la tournée Dans la peau en 2021\, 
@@ -6340,7 +6286,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 BERTRAND BELIN
 DTSTART:20270309T183000Z
 DTEND:20270309T210000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uf_y@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:W SPECTACLE PRÉSENTE : BERTRAND BELINÇa commence par un pont
@@ -6358,7 +6304,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 JEANNE
 DTSTART:20270309T190000Z
 DTEND:20270309T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A78A0s@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Jeanne a conquis le public avec Respire fort devenu un vérita
@@ -6375,7 +6321,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 THEA
 DTSTART:20270311T183000Z
 DTEND:20270311T210000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7uZGf@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:W LIVE PRÉSENTE : THEAFin août 2025\, THÉA revient avec un 
@@ -6394,7 +6340,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 KEMMLER
 DTSTART:20270311T190000Z
 DTEND:20270311T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7ugfg@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:KEMMLER FR – Rap Après le triomphe de lapremière partie de
@@ -6413,7 +6359,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 THE WARNING
 DTSTART:20270312T190000Z
 DTEND:20270312T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A78K-M@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Les membres du groupe The Warning ont grandi en composant des 
@@ -6432,7 +6378,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 DEBOUT SUR LE ZINC
 DTSTART:20270312T190000Z
 DTEND:20270312T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A78VqP@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Debout sur le Zinc célèbre plus de trente ans de scène\, d
@@ -6451,7 +6397,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 SYLVIE VARTAN
 DTSTART:20270314T160000Z
 DTEND:20270314T183000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7C8uk@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Ma vie en chansons\, avec vous…Après le succès de sa maste
@@ -6470,7 +6416,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 SINCLAIR
 DTSTART:20270314T183000Z
 DTEND:20270314T210000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7GSoN@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:En 2026 une nouvelle ère s’annonce pour Sinclair\, plus lum
@@ -6489,7 +6435,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 PICHE
 DTSTART:20270317T190000Z
 DTEND:20270317T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7GJaS@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:SAS TR PRÉSENTE : PICHEÀ 29 ans\, Piche s’impose comme l
@@ -6508,7 +6454,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 BERNARD LAVILLIERS
 DTSTART:20270317T190000Z
 DTEND:20270317T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A71vvx@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:BERNARD LAVILLIERSTOUR 2027Bernard Lavilliers est de retour su
@@ -6527,7 +6473,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 EMEL - EMEL / VOIX D'AUTRES CONTINENTS
 DTSTART:20270317T190000Z
 DTEND:20270317T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7C7b7@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Emel\, artiste et productrice américano-tunisienne\, s’est 
@@ -6546,7 +6492,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 AYRON JONES
 DTSTART:20270318T190000Z
 DTEND:20270318T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7Gpb7@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:ELDORADO PRESENTE EN ACCORD AVEC GERARD DROUOT PRODUCTIONS : A
@@ -6565,7 +6511,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 MAJOR-MORAN - MAJOR-MORAN / VOIX D'AUTRES CONTINENTS
 DTSTART:20270318T190000Z
 DTEND:20270318T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7C7bF@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Catherine Major et Jeff Moran sont tous deux lauréats de prix
@@ -6584,7 +6530,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 HIGH FADE
 DTSTART:20270319T190000Z
 DTEND:20270319T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A78IAv@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Le trio Funk/Rock High Fade – composé du fondateur Harry Va
@@ -6603,7 +6549,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 ABBA GOLD THE CONCERT SHOW
 DTSTART:20270319T190000Z
 DTEND:20270319T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7axF_@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:ABBA GOLD – the concert show revient en 2026-27 avec un spec
@@ -6622,7 +6568,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 ADAM EL MOUNA - BORDUAS - ADAM EL MOUNA ET BORDUAS
 DTSTART:20270319T190000Z
 DTEND:20270319T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7C7b4@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Adam El MounaDemi-finaliste de « La Voix »\, cet auteur-comp
@@ -6641,7 +6587,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 OLDELAF
 DTSTART:20270319T193000Z
 DTEND:20270319T220000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7GxaZ@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Oldelaf revient dans une formule inédite : seul en scène\, m
@@ -6660,7 +6606,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 500 VOIX POUR JOHNNY
 DTSTART:20270320T190000Z
 DTEND:20270320T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A71pqM@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Dix ans après sa disparition\, la légende du rock français 
@@ -6679,7 +6625,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 PARIS COMBO - PARIS COMBO / VOIX D'AUTRES CONTINENTS
 DTSTART:20270320T190000Z
 DTEND:20270320T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7C7b9@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Paris Combo et ses invité.es rendent hommage à leur embléma
@@ -6698,7 +6644,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 THE U2 EXPERIENCE
 DTSTART:20270321T163000Z
 DTEND:20270321T190000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7FsAI@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Indigo Productions\, L'Autre solution et LDC en accord avec Sh
@@ -6716,7 +6662,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 ADELE CASTILLON
 DTSTART:20270325T190000Z
 DTEND:20270325T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7G_7I@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:LDC en accord avec Agapè PrésenteA 24 ans\, malgré cette je
@@ -6735,7 +6681,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 LOIC NOTTET
 DTSTART:20270325T190000Z
 DTEND:20270325T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A78wb9@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Concert « LOIC NOTTET » à RADIANT - BELLEVUE (Caluire Et Cu
@@ -6750,7 +6696,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 IL CELLO
 DTSTART:20270326T190000Z
 DTEND:20270326T213000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A78wb6@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Concert « IL CELLO » à BOURSE DU TRAVAIL (Lyon). Genre : Ch
@@ -6765,7 +6711,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 LOREENA MCKENNITT
 DTSTART:20270327T180000Z
 DTEND:20270327T203000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7G_AM@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Concert « LOREENA MCKENNITT » à BOURSE DU TRAVAIL (Lyon). G
@@ -6780,7 +6726,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 JULIEN DASSIN CHANTE JOE DASSIN
 DTSTART:20270328T150000Z
 DTEND:20270328T173000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7ugf3@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Julien Dassin revisite avec sincérité et émotion les classi
@@ -6799,7 +6745,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 DANYL
 DTSTART:20270330T180000Z
 DTEND:20270330T203000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A78Y_z@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Autodidacte\, Danyl a commencé très tôt les productions pou
@@ -6816,7 +6762,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 MPL
 DTSTART:20270330T180000Z
 DTEND:20270330T203000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7u8F9@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:MPLGalvanisante et fédératrice\, saine et progressive : la d
@@ -6835,7 +6781,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 JAHNERATION
 DTSTART:20270401T180000Z
 DTEND:20270401T203000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7upP0@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:JAHNERATIONFR – ReggaeLe duo parisien Jahneration formé par
@@ -6854,7 +6800,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 200 VOIX POUR GOLDMAN
 DTSTART:20270401T180000Z
 DTEND:20270401T203000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7avFw@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Le spectacle initialement prévu le mercredi 24 mars 2027 est 
@@ -6873,7 +6819,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 ISAAC DELUSION
 DTSTART:20270402T180000Z
 DTEND:20270402T203000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7C3Ap@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Né en 2012\, Isaac Delusion s’est peu à peu affirmé comme
@@ -6892,7 +6838,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 JUSTENIELS
 DTSTART:20270403T180000Z
 DTEND:20270403T203000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A78z-U@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:JUSTENIELS transforme son hypersensibilité en chansons intime
@@ -6911,7 +6857,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 PATRICK FIORI
 DTSTART:20270403T180000Z
 DTEND:20270403T203000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7F3_3@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:SUD CONCERTS PRESENTE EN ACCORD AVEC LABEL LUNE PRODUCTIONS : 
@@ -6926,7 +6872,7 @@ SUMMARY:🎵 PETER HOOK & THE LIGHT - PETER HOOK & THE LIGHT : A Joy Divis
  ion
 DTSTART:20270404T170000Z
 DTEND:20270404T193000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A78e0Y@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:PETER HOOK & THE LIGHT annoncent une tournée française au pr
@@ -6945,7 +6891,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 RODRIGO Y GABRIELA
 DTSTART:20270405T180000Z
 DTEND:20270405T203000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A7u9_s@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:UNI-T PRESENTE : RODRIGO Y GABRIELALe duo de guitaristes mexic
@@ -6964,7 +6910,7 @@ BEGIN:VEVENT
 SUMMARY:🎵 ORIA
 DTSTART:20270407T180000Z
 DTEND:20270407T203000Z
-DTSTAMP:20261012T123926Z
+DTSTAMP:20261019T102600Z
 UID:tm-ZkyMmBwZ1A78Ibs@agenda-lyon
 CATEGORIES:Concert
 DESCRIPTION:Oria\, la révélation pop francophone de la rentrée aux plus
@@ -6980,18 +6926,58 @@ URL:https://www.ticketmaster.fr/fr/manifestation/oria-billet/idmanif/67367
  0/idseance/4428631
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎵 CLASH WORLD - LE BOLERO A BAMAKO
-DTSTART:20270407T180000Z
-DTEND:20270407T203000Z
-DTSTAMP:20261012T123926Z
-UID:tm-ZkyMmBwZ1A7GxFd@agenda-lyon
+SUMMARY:🎵 LA SYMPHONIE FANTASTIQUE - OSYRA
+DTSTART:20270411T150000Z
+DTEND:20270411T173000Z
+DTSTAMP:20261019T102600Z
+UID:tm-ZkyMmBwZ1A7uzF8@agenda-lyon
 CATEGORIES:Concert
-DESCRIPTION:Mediatone (Lic.29194980 et 29205104) & CLASH présententCLASH 
- WORLD – LE BOLERO A BAMAKOavec Mariam et Trans Cover Express\n\n🎟 Bil
- letterie : https://www.ticketmaster.fr/fr/manifestation/clash-world-le-bol
- ero-a-bamako-billet/idmanif/657561/idtier/18864121
-LOCATION:RADIANT - BELLEVUE\, 1 RUE JEAN MOULIN\, 69300\, Caluire Et Cuire
-URL:https://www.ticketmaster.fr/fr/manifestation/clash-world-le-bolero-a-b
- amako-billet/idmanif/657561/idtier/18864121
+DESCRIPTION:Symphonie Fantastique de BerliozOSYRA - Laurent PillotUne symp
+ honie magistrale commentée par un chef d'orchestre hors norme.Chef-d’oe
+ uvre du répertoire romantique français\, la Symphonie Fantastique d’He
+ ctor Berlioz décrit en musique les états d’âme amoureux d’un jeune 
+ musicien. Dans la plus pure tradition romantique\, son amour passionnel co
+ ntrarié provoque chez lui exaltation\, déception\, haine\,…\n\n🎟 Bi
+ lletterie : https://www.ticketmaster.fr/fr/manifestation/la-symphonie-fant
+ astique-osyra-billet/idmanif/666802/idtier/18864121
+LOCATION:LE TOBOGGAN\, 14 AV JEAN MACÉ\, 69150\, Decines Charpieu
+URL:https://www.ticketmaster.fr/fr/manifestation/la-symphonie-fantastique-
+ osyra-billet/idmanif/666802/idtier/18864121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎵 WARHAUS
+DTSTART:20270415T180000Z
+DTEND:20270415T203000Z
+DTSTAMP:20261019T102600Z
+UID:tm-ZkyMmBwZ1A78K44@agenda-lyon
+CATEGORIES:Concert
+DESCRIPTION:Warhaus – The Donkey (live bio)Warhaus\, le projet solo de M
+ aarten Devoldere\, est depuis longtemps synonyme d’une pop dandy aussi 
+ élégante qu’excellente. Pourtant\, sur The Donkey\, son cinquième alb
+ um studio\, il semble s’être abandonné à quelque chose de plus instin
+ ctif\, de plus primaire. Imaginez des textes hypnotiques\, des voix brutes
+ \, des rythmes tribaux inspirés du Gqom sud-africain et des…\n\n🎟 Bi
+ lletterie : https://www.ticketmaster.fr/fr/manifestation/warhaus-billet/id
+ manif/672133/idseance/4413555
+LOCATION:LE TRANSBORDEUR\, 3 BD STALINGRAD\, 69100\, Villeurbanne
+URL:https://www.ticketmaster.fr/fr/manifestation/warhaus-billet/idmanif/67
+ 2133/idseance/4413555
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎵 MOSIMANN
+DTSTART:20270416T180000Z
+DTEND:20270416T203000Z
+DTSTAMP:20261019T102600Z
+UID:tm-ZkyMmBwZ1A78vZM@agenda-lyon
+CATEGORIES:Concert
+DESCRIPTION:Mosimann s’impose aujourd’hui comme l’un des artistesél
+ ectro les plus complets de sa génération. DJ\, producer et performer liv
+ e\, iltransforme chaque set en véritable show. Son concept viral Dream Tr
+ ack cumuleplus de 300 millions de vues et rassemble plus de 3 millions de 
+ followers.\n\n🎟 Billetterie : https://www.ticketmaster.fr/fr/manifestat
+ ion/mosimann-billet/idmanif/670759/idseance/4401037
+LOCATION:HALLE TONY GARNIER\, 20 PLACE DOCTEURS MERIEUX\, 69007\, Lyon
+URL:https://www.ticketmaster.fr/fr/manifestation/mosimann-billet/idmanif/6
+ 70759/idseance/4401037
 END:VEVENT
 END:VCALENDAR
